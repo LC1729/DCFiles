@@ -1623,3 +1623,21 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/9/2/1571405116529.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/4/2/1571405117624.xml
 
 
+La màgica Do-Re-Mi 179 (2019-10-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5941614
+Titol: No em deixis anar la mà!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/8/1571527595285.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/9/1571527627691.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/4/1571664245644.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/6/1571664246668.xml
+
+
+La màgica Do-Re-Mi 180 (2019-10-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5941608
+Titol: L'ombra misteriosa: enrenou al món de les bruixes!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/4/1571526929047.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/9/1571526961093.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/6/1571664242262.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/5/1571664243451.xml
+
+
