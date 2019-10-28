@@ -1,0 +1,1722 @@
+El detectiu Conan 721 (2019-01-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5809830
+Titol: El tresor secret de la torre fosca (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/7/1546298376071.mp4
+HQ: [{'file': 'https://mp4-down-high-es.ccma.cat/9/2/1546298398429.mp4', 'label': '720p', 'active': True}, {'file': 'https://mp4-down-medium-es.ccma.cat/1/7/1546298376071.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/3/1546687377634.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/3/1546687378739.xml
+
+
+El detectiu Conan 722 (2019-01-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5809829
+Titol: El tresor secret de la torre fosca (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/2/1546298252924.mp4
+HQ: [{'file': 'https://mp4-down-high-es.ccma.cat/1/0/1546298276501.mp4', 'label': '720p', 'active': True}, {'file': 'https://mp4-down-medium-es.ccma.cat/4/2/1546298252924.mp4', 'label': '480p'}]
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/1/1546687374219.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/8/1546687375487.xml
+
+
+El detectiu Conan 721 (2019-01-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5809830
+Titol: El tresor secret de la torre fosca (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/7/1546298376071.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/2/1546298398429.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/3/1546687377634.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/3/1546687378739.xml
+
+
+El detectiu Conan 722 (2019-01-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5809829
+Titol: El tresor secret de la torre fosca (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/2/1546298252924.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/0/1546298276501.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/1/1546687374219.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/8/1546687375487.xml
+
+
+El detectiu Conan 723 (2019-01-09)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5809847
+Titol: El nocturn dels detectius: El cas
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/5/1546305547958.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/4/1546305569444.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/3/1546687370835.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/7/1546687371973.xml
+
+
+El detectiu Conan 724 (2019-01-09)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5810254
+Titol: El nocturn dels detectius: El segrest
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/2/1546475369525.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/8/1546475402088.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/1/1546928592313.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/5/1546928593458.xml
+
+TestingEl detectiu Conan 725 (2019-01-10)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5810256
+Titol: El nocturn dels detectius: La deducciÃ³
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/5/1546476296154.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/7/1546476316574.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/3/1546946592635.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/0/1546946593909.xml
+
+
+El detectiu Conan 726 (2019-01-10)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5810252
+Titol: El nocturn dels detectius: Bourbon
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/5/1546475279253.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/0/1546475301308.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/7/1546946588270.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/6/1546946590367.xml
+
+El detectiu Conan 728 (2019-01-14)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5810970
+Titol: Ni un milÂ·lÃ­metre de perdÃ³ (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/3/1546820556534.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/4/1546820578142.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/0/1547216691404.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/8/1547216692684.xml
+
+
+El detectiu Conan 727 (2019-01-14)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5810957
+Titol: Ni un milÂ·lÃ­metre de perdÃ³ (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/6/1546820706362.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/8/1546820725583.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/7/1547187901877.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/7/1547187903270.xml
+
+
+El detectiu Conan 730 (2019-01-15)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5811546
+Titol: El teatre del misteri de Nagasaki (Final del perÃ­ode Edo)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/6/1547005824965.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/9/1547005847799.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/3/1547475857636.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/0/1547475858807.xml
+
+
+El detectiu Conan 729 (2019-01-15)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5811545
+Titol: La platja sense petjades a la sorra
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/8/1547005732585.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/8/1547005755084.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/6/1547216681664.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/8/1547216682986.xml
+
+
+El detectiu Conan 731 (2019-01-16)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5811853
+Titol: En teatre del misteri de Nagasaki (El present)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/7/1547076799077.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/0/1547076818504.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/1/1547533506415.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/7/1547533507778.xml
+
+
+El detectiu Conan 732 (2019-01-16)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5812233
+Titol: La rapsÃ²dia del cactus
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/3/1547173058933.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/8/1547173080781.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/6/1547551481361.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/8/1547551482589.xml
+
+
+El detectiu Conan 733 (2019-01-17)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5813168
+Titol: RetransmissiÃ³ d'un amor que arrisca la vida: Inici de la retransmissiÃ³
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/9/1547508333297.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/3/1547508356433.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/7/1547551468071.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/3/1547551469333.xml
+
+
+El detectiu Conan 734 (2019-01-17)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5813167
+Titol: RetransmissiÃ³ d'un amor que arrisca la vida: SituaciÃ³ desesperada
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/2/1547508000326.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/2/1547508022727.mp4
+
+El detectiu Conan 736 (2019-01-21)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5813824
+Titol: Una coartada d'espuma i fum (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/5/1547682520853.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/7/1547682542878.mp4
+
+
+El detectiu Conan 735 (2019-01-21)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5813480
+Titol: Retransmissió d'un amor que arrisca la vida: Irrupció en escena
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/3/1547594329038.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/3/1547594351531.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/8/1547706389187.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/9/1547706390290.xml
+
+
+El detectiu Conan 738 (2019-01-22)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5813838
+Titol: La furgoneta que porta una bomba de rellotgeria
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/3/1547681708034.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/2/1547681729928.mp4
+
+
+El detectiu Conan 737 (2019-01-22)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5813825
+Titol: Una coartada d'espuma i fum (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/6/1547682757660.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/8/1547682781081.mp4
+
+
+El detectiu Conan 740 (2019-01-23)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5814446
+Titol: L'inspector Takagi troba 30 milions de iens
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/5/1547855981055.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/4/1547856039941.mp4
+
+
+El detectiu Conan 739 (2019-01-23)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5814432
+Titol: La misteriosa trampa de gel
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/6/1547855442468.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/9/1547855464699.mp4
+
+
+El detectiu Conan 741 (2019-01-24)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5814425
+Titol: El missatge del client
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/5/1547855397855.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/0/1547855421009.mp4
+
+
+El detectiu Conan 742 (2019-01-24)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5814421
+Titol: El cas obert d'en Yusaku Kudo (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/6/1547854212969.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/6/1547854236467.mp4
+
+
+El detectiu Conan 743 (2019-01-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5815047
+Titol: El cas obert d'en Yusaku kudo (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/1/1548121378114.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/9/1548121400290.mp4
+
+
+El detectiu Conan 744 (2019-01-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5815627
+Titol: La ruta nocturna pels cirerers florits del riu Sumida (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/9/1548286532896.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/8/1548286555781.mp4
+
+
+El detectiu Conan 746 (2019-01-29)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5815649
+Titol: El misteri de la desaparició dels dolços
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/4/1548286868241.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/4/1548286889148.mp4
+
+
+El detectiu Conan 745 (2019-01-29)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5815625
+Titol: La ruta nocturna pels cirerers florits del riu Sumida (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/7/1548285873770.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/4/1548285900743.mp4
+
+
+El detectiu Conan 701 (2019-01-31)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5785043
+Titol: Ostatges a l'agència de detectius Mouri (Alliberament)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/9/1536538940396.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/4/1536538959745.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/0/1536568145306.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/8/1536568147282.xml
+
+
+El detectiu Conan 747 (2019-01-30)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5815989
+Titol: Una rosa entre les vinyes
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/1/1548388909712.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/6/1548388933063.mp4
+
+
+El detectiu Conan 748 (2019-02-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5816932
+Titol: Vandalisme al jardí infantil
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/0/1548721580903.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/9/1548721615792.mp4
+
+
+El detectiu Conan 749 (2019-02-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5816935
+Titol: La finestra de l'acadèmia de noies
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/8/1548722478089.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/3/1548722502231.mp4
+
+
+El detectiu Conan 750 (2019-02-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5816940
+Titol: "Increïble: Un ovni estavellat"
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/2/1548725778422.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/8/1548725800186.mp4
+
+
+El detectiu Conan 751 (2019-02-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5816943
+Titol: L'ombra que plana damunt del secret de l'Ai (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/8/1548728444180.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/2/1548728466225.mp4
+
+
+El detectiu Conan 702 (2019-02-06)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5785302
+Titol: Conan contra Heiji. Batalla de deduccions entre el detectiu de l'est i el de l'oest (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/6/1536625489766.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/9/1536625509493.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/7/1536654943675.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/7/1536654945576.xml
+
+
+El detectiu Conan 752 (2019-02-06)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5816961
+Titol: L'ombra que plana damunt del secret de l'Ai (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/7/1548736042673.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/2/1548736064420.mp4
+
+
+El detectiu Conan 703 (2019-02-07)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5785459
+Titol: Conan contra Heiji. Batalla de deduccions entre el detectiu de l'est i el de l'oest (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/4/1536711399741.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/3/1536711420934.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/0/1536741335303.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/1/1536741337310.xml
+
+
+El detectiu Conan 704 (2019-02-07)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5785698
+Titol: El disseny del verí i la il·lusió (Eye)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/8/1536797707380.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/6/1536797726862.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/9/1536831902497.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/0/1536831904408.xml
+
+
+El detectiu Conan 705 (2019-02-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5786257
+Titol: El disseny del verí i la il·lusió (S)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/7/1537068441476.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/7/1537068462174.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/3/1537086672832.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/1/1537086674712.xml
+
+
+El detectiu Conan 706 (2019-02-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5786348
+Titol: El disseny del verí i la il·lusió (Poison)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/2/1537143545523.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/7/1537143564576.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/2/1537172951925.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/2/1537172953925.xml
+
+
+El detectiu Conan 707 (2019-02-12)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5786586
+Titol: El disseny del verí i la il·lusió (Illusion)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/8/1537230753789.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/6/1537230772868.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/0/1537259770600.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/3/1537259773032.xml
+
+
+El detectiu Conan 753 (2019-02-12)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5818688
+Titol: El tren del misteri (Sortida)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/6/1549327552868.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/8/1549327572981.mp4
+
+
+El detectiu Conan 755 (2019-02-13)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5818698
+Titol: El tren del misteri (La cruïlla)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/1/1549332978217.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/2/1549333000029.mp4
+
+
+El detectiu Conan 754 (2019-02-13)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5818699
+Titol: El tren del misteri (Túnel)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/8/1549333129382.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/8/1549333150987.mp4
+
+
+El detectiu Conan 756 (2019-02-14)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5818938
+Titol: El tren del misteri (L'última parada)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/4/1549424436943.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/8/1549424460385.mp4
+
+
+El detectiu Conan 757 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5818941
+Titol: En Conan a l'habitació tancada
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/6/1549425668265.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/1/1549425689415.mp4
+
+
+El detectiu Conan 758 (2019-02-18)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5820135
+Titol: Un misteri resolt amb en Bourbon
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/7/1549775053274.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/7/1549775077270.mp4
+
+
+El detectiu Conan 759 (2019-02-18)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5820150
+Titol: Parany per un detectiu famós
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/5/1549774664351.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/2/1549774686023.mp4
+
+
+El detectiu Conan 760 (2019-02-19)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5820375
+Titol: La caiguda lenta
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/1/1549866092811.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/6/1549866115165.mp4
+
+
+El detectiu Conan 761 (2019-02-19)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5820374
+Titol: Impacte no identificat
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/1/1549865455217.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/3/1549865476633.mp4
+
+
+El detectiu Conan 762 (2019-02-20)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5820732
+Titol: Tothom mirava (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/1/1549944288214.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/9/1549944309995.mp4
+
+
+El detectiu Conan 763 (2019-02-20)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5820750
+Titol: Tothom mirava (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/1/1549943817510.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/1/1549943824417.mp4
+
+
+El detectiu Conan 708 (2019-02-21)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5786800
+Titol: El vídeo del doctor (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/0/1537316460509.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/7/1537316480570.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/7/1537346072771.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/1/1537346074512.xml
+
+
+El detectiu Conan 709 (2019-02-21)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5787029
+Titol: El vídeo del doctor (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/2/1537402736820.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/5/1537402757057.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/9/1537432579192.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/7/1537432581172.xml
+
+
+El detectiu Conan 765 (2019-02-25)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5822279
+Titol: En Heiji Hattori i la mansió del vampir (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/4/1550379609543.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/7/1550379633573.mp4
+
+
+El detectiu Conan 764 (2019-02-25)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5822281
+Titol: En Heiji Hattori i la mansió del vampir (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/2/1550380661821.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/5/1550380684256.mp4
+
+
+El detectiu Conan 766 (2019-02-26)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5822806
+Titol: En Heiji Hattori i la mansió del vampir (3a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/0/1550550445808.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/4/1550550487445.mp4
+
+
+El detectiu Conan 767 (2019-02-26)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5822807
+Titol: En Heiji Hattori i la mansió del vampir (4a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/8/1550550624789.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/6/1550550668663.mp4
+
+
+El detectiu Conan 711 (2019-02-27)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5787772
+Titol: Una investigació amb el primer amor (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/7/1537748395676.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/6/1537748414667.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/2/1537777649221.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/7/1537777651278.xml
+
+
+El detectiu Conan 712 (2019-02-27)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5787912
+Titol: Una investigació amb el primer amor (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/8/1537834693687.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/2/1537834713720.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/4/1537864094445.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/8/1537864096281.xml
+
+
+El detectiu Conan 713 (2019-02-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5788112
+Titol: En Kogoro és bona persona (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/7/1537918059877.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/7/1537918079371.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/3/1537950781432.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/4/1537950783241.xml
+
+
+El detectiu Conan 714 (2019-02-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5788307
+Titol: En Kogoro és bona persona (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/3/1538004839136.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/8/1538004857986.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/4/1538037395448.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/4/1538037397346.xml
+
+
+El detectiu Conan 769 (2019-03-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5824830
+Titol: Els dimonis ballen a la mansió de les màscares Noh (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/8/1550981438587.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/9/1550981459991.mp4
+
+
+El detectiu Conan 768 (2019-03-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5824829
+Titol: Els dimonis ballen a la mansió de les màscares Noh (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/4/1550981017546.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/6/1550981039166.mp4
+
+
+El detectiu Conan 770 (2019-03-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5825429
+Titol: El circuït diabòlic
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/9/1551144185693.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/4/1551144207349.mp4
+
+
+El detectiu Conan 771 (2019-03-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5825430
+Titol: El rebombori de les entrades VIP
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/0/1551144217204.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/4/1551144239548.mp4
+
+
+El detectiu Conan 710 (2019-03-06)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5787639
+Titol: La trampa de la xocolata inflamable
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/0/1537659107106.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/8/1537659160086.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/7/1537691464172.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/9/1537691467091.xml
+
+
+El detectiu Conan 715 (2019-03-06)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5788892
+Titol: A la recerca de l'escarbat de Miyama
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/5/1538279763854.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/5/1538279815258.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/8/1538296241389.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/7/1538296243276.xml
+
+
+El detectiu Conan 716 (2019-03-07)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5788988
+Titol: La proesa de la Kuru, 2
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/1/1538350292519.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/1/1538350313314.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/3/1538382535834.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/9/1538382537699.xml
+
+
+El detectiu Conan 717 (2019-03-07)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5789219
+Titol: La insospitosa "k" inicial
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/7/1538436776374.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/3/1538436798238.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/2/1538469230225.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/3/1538469232030.xml
+
+
+El detectiu Conan 773 (2019-03-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5827310
+Titol: Aventura misteriosa a la Terra del Foc i l'Aigua. Episodi de Kumamoto
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/3/1551586584534.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/8/1551586606383.mp4
+
+
+El detectiu Conan 772 (2019-03-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5827311
+Titol: Aventura misteriosa a la Terra del Foc i l'Aigua. Episodi d'Aso
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/0/1551587753609.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/8/1551587777980.mp4
+
+
+El detectiu Conan 774 (2019-03-12)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5827936
+Titol: Un servei de repartiment fred i dolç (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/6/1551746419668.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/3/1551746441939.mp4
+
+
+El detectiu Conan 775 (2019-03-12)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5827938
+Titol: Un servei de repartiment fred i dolç (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/2/1551746841521.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/5/1551746863258.mp4
+
+
+El detectiu Conan 776 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5827951
+Titol: En Kaito Kid i la sirena enrojolada (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/2/1551752482521.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/8/1551752514483.mp4
+
+
+El detectiu Conan 777 (2019-03-13)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5827943
+Titol: En Kaito Kid i la sirena enrojolada (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/5/1551751913152.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/8/1551751947880.mp4
+
+
+El detectiu Conan 719 (2019-03-14)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5789699
+Titol: La vigília del casament (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/3/1538619169531.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/0/1538619189907.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/4/1538642283247.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/9/1538642285393.xml
+
+
+El detectiu Conan 720 (2019-03-14)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5790309
+Titol: La vigília del casament (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/1/1538885442210.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/2/1538885458523.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/0/1538901051700.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/7/1538901054472.xml
+
+
+El detectiu Conan 477 (2019-03-15)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3702390
+Titol: El detectiu Conan - Cap. 477: Que tothom desaparegui
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/5/1316756832359.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/6/1316756844264.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/9/1544758262190.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/3/1438735359739.xml
+
+
+El detectiu Conan 478 (2019-03-15)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3702410
+Titol: El detectiu Conan - Cap. 478: Una escena extremament perillosa
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/3/1316757142639.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/4/1316757425847.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/9/1544758259795.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/7/1438735352172.xml
+
+
+El detectiu Conan 718 (2019-03-18)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5789476
+Titol: L'amenaça d'una nit de pluja
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/3/1538528874738.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/6/1538528896160.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/3/1538555836436.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/8/1538555838480.xml
+
+
+El detectiu Conan 479 (2019-03-18)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3704930
+Titol: El detectiu Conan - Cap. 479: L'última mossegada
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/2/1316842338823.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/3/1316842345632.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/5/1544758194055.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/3/1438735191433.xml
+
+
+El detectiu Conan 480 (2019-03-18)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3704970
+Titol: El detectiu Conan - Cap. 480: L'home amb una fractura com a obstacle
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/9/1316843233195.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/0/1316843243009.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/0/1544758192905.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/8/1438735180880.xml
+
+
+El detectiu Conan 481 (2019-03-19)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3709312
+Titol: El detectiu Conan - Cap. 481: L'home que sospirava buscant cloïsses (I)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/5/1317141763158.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/1/1317141769513.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/2/1544758161925.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/7/1487357331670.xml
+
+
+El detectiu Conan 482 (2019-03-19)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3709310
+Titol: El detectiu Conan - Cap. 482: L'home que sospirava buscant cloïsses (II)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/2/1317141726520.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/7/1317141739078.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/9/1544758160590.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/4/1487357326948.xml
+
+
+El detectiu Conan 778 (2019-03-19)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5830476
+Titol: El correu feliç que porta la desgràcia
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/1/1552353733915.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/7/1552353787176.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/5/1552919341651.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/2/1552919342724.xml
+
+
+El detectiu Conan 780 (2019-03-20)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5830538
+Titol: Un cofre ple de fruita (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/6/1552364287869.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/2/1552364308721.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/3/1552915586632.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/9/1552915587994.xml
+
+
+El detectiu Conan 779 (2019-03-20)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5830539
+Titol: Un cofre ple de fruita (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/2/1552364318624.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/9/1552364340593.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/3/1553008403432.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/5/1553008404850.xml
+
+
+El detectiu Conan 782 (2019-03-21)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5830950
+Titol: Una maqueta massa perfecta
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/8/1552439939788.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/1/1552439962616.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/2/1552915581425.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/7/1552915584073.xml
+
+
+El detectiu Conan 781 (2019-03-21)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5830949
+Titol: Diamants, un retrat i una gran actriu
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/6/1552439667663.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/9/1552439690092.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/0/1552919338202.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/3/1552919339431.xml
+
+
+El detectiu Conan 783 (2019-03-25)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5832693
+Titol: El veí de l'escenari del succés és un exnòvio (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/3/1552795905431.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/0/1552795927109.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/3/1553008367037.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/5/1553008368156.xml
+
+
+El detectiu Conan 784 (2019-03-25)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5832692
+Titol: El veí de l'escenari del succés és un exnòvio (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/3/1552795214632.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/5/1552795234651.mp4
+
+
+El detectiu Conan 785 (2019-03-26)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5832972
+Titol: Un banquet de noces i dos trets
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/0/1552890020907.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/8/1552890044389.mp4
+
+
+El detectiu Conan 786 (2019-03-26)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5833348
+Titol: Els records de la Jodie i la il·lusió òptica dels cirerers florits
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/1/1552951327813.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/0/1552951351102.mp4
+
+
+El detectiu Conan 787 (2019-03-27)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5833354
+Titol: Els records de la Jodie i la il·lusió òptica dels cirerers florits
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/5/1552959370152.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/4/1552959390743.mp4
+
+
+El detectiu Conan 788 (2019-03-27)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5833355
+Titol: La invitació codificada
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/5/1552959459955.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/2/1552959481721.mp4
+
+
+El detectiu Conan 790 (2019-03-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5833795
+Titol: Un passeig sospitós
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/2/1553043236022.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/6/1553043266560.mp4
+
+
+El detectiu Conan 789 (2019-03-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5833793
+Titol: El secret de l'estàtua d'en Kogoro Mori
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/5/1553042511757.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/2/1553042533720.mp4
+
+
+El detectiu Conan 791 (2019-04-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5835608
+Titol: En Kogoro al bar (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/0/1553398866701.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/7/1553398907879.mp4
+
+
+El detectiu Conan 792 (2019-04-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5835591
+Titol: En kogoro al bar (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/8/1553398586885.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/4/1553398608545.mp4
+
+
+El detectiu Conan 793 (2019-04-02)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5835835
+Titol: La Ran també es desmaia al lavabo (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/8/1553495557481.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/7/1553495618073.mp4
+
+
+El detectiu Conan 794 (2019-04-02)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5835834
+Titol: La Ran també es desmaia al lavabo (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/1/1553495376112.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/5/1553495398359.mp4
+
+
+El detectiu Conan 795 (2019-04-03)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5836132
+Titol: La promesa del jugador de futbol
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/1/1553561210212.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/5/1553561232459.mp4
+
+
+El detectiu Conan 796 (2019-04-03)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5836148
+Titol: Massa coincidència
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/9/1553561378094.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/0/1553561398601.mp4
+
+
+El detectiu Conan 797 (2019-04-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5836568
+Titol: En Makoko Kyogoku, sospitós? (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/9/1553649578394.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/3/1553649597837.mp4
+
+
+El detectiu Conan 798 (2019-04-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5836586
+Titol: En Makoko Kyogoku, sospitós? (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/9/1553649399297.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/6/1553649418769.mp4
+
+
+El detectiu Conan 800 (2019-04-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5837948
+Titol: En Kaito Kid contra en Makoko Kyogoku (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/0/1553992186209.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/5/1553992207656.mp4
+
+
+El detectiu Conan 799 (2019-04-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5837949
+Titol: En Kaito Kid contra en Makoko Kyogoku (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/4/1553992426641.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/2/1553992447327.mp4
+
+
+El detectiu Conan 802 (2019-04-09)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5838243
+Titol: Una història d'amor entre policies. La veritat
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/4/1554115167444.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/9/1554115225790.mp4
+
+
+El detectiu Conan 801 (2019-04-09)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5838216
+Titol: Una història d'amor entre policies. La confessió
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/2/1554120576921.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/3/1554120598638.mp4
+
+
+El detectiu Conan 803 (2019-04-10)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5838472
+Titol: L'home traït pel mar
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/3/1554163958637.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/7/1554163970075.mp4
+
+
+El detectiu Conan 804 (2019-04-10)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5838473
+Titol: El cas del gat de tres colors que porta sort (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/9/1554164113393.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/4/1554164133749.mp4
+
+
+El detectiu Conan 805 (2019-04-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5838938
+Titol: El cas del gat de tres colors que porta sort (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/4/1554250918241.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/4/1554250939149.mp4
+
+
+El detectiu Conan 806 (2019-04-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5838939
+Titol: El punt cec de la casa compartida
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/4/1554251518640.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/3/1554251539833.mp4
+
+
+El detectiu Conan 803 (2019-04-10)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5838472
+Titol: L'home traït pel mar
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/3/1554163958637.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/0/1555495248409.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/6/1554978396464.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/5/1554978397552.xml
+
+
+El detectiu Conan 808 (2019-04-22)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5843229
+Titol: La tragèdia de la dona de vermell. El fantasma
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/6/1555197774162.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/5/1555197796951.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/8/1555392284682.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/8/1555392285886.xml
+
+
+El detectiu Conan 807 (2019-04-22)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5843271
+Titol: La tragèdia de la dona de vermell. El baf
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/5/1555197709450.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/8/1555197732784.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/6/1555392288566.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/6/1555392289467.xml
+
+
+El detectiu Conan 809 (2019-04-23)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5843587
+Titol: La tragèdia de la dona de vermell. La venjança
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/0/1555287542400.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/4/1555287563845.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/8/1555478671682.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/3/1555478672631.xml
+
+
+El detectiu Conan 810 (2019-04-23)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5843588
+Titol: L'humorista que va confessar (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/9/1555288082395.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/9/1555288101998.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/0/1555478668803.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/8/1555478669688.xml
+
+
+El detectiu Conan 642 (2019-04-24)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5756112
+Titol: La casa dels aquaris
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/9/1522031192399.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/2/1522031214324.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/8/1522052857488.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/8/1522052859282.xml
+
+
+El detectiu Conan 811 (2019-04-24)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5843999
+Titol: L'humorista que va confessar (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/2/1555374876420.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/4/1555374899645.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/4/1555565126247.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/9/1555565127297.xml
+
+
+El detectiu Conan 813 (2019-04-29)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5845982
+Titol: Una novel·la romàntica amb final inesperat (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/9/1555805740690.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/5/1555805760156.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/1/1556101507819.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/7/1556101509173.xml
+
+
+El detectiu Conan 812 (2019-04-29)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5845984
+Titol: Una novel·la romàntica amb final inesperat (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/3/1555807091430.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/4/1555807110745.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/8/1555997057488.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/7/1555997058577.xml
+
+
+El detectiu Conan 815 (2019-04-30)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5847206
+Titol: Itinerari misteriós a Kaga Hyakumangoku. Part de Kaga
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/4/1556062540340.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/8/1556062559286.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/7/1556515481075.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/9/1556515482198.xml
+
+
+El detectiu Conan 814 (2019-04-30)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5847193
+Titol: Itinerari misteriós a Kaga Hyakumangoku. Part de Kanazawa
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/2/1556058158623.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/9/1556058178993.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/4/1556342782345.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/4/1556342783449.xml
+
+
+El detectiu Conan 817 (2019-05-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5847545
+Titol: En Conan i en Heiji: El codi de l'amor (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/1/1556144071216.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/5/1556144090758.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/2/1556544250624.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/0/1556544251808.xml
+
+
+El detectiu Conan 816 (2019-05-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5847570
+Titol: En Conan i en Heiji: El codi de l'amor (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/9/1556144639396.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/8/1556144658689.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/5/1556533469659.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/8/1556533470588.xml
+
+
+El detectiu Conan 645 (2019-05-02)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5756863
+Titol: La ruta de les set meravelles de miyajima
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/3/1522289902938.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/0/1522289922702.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/9/1522751321292.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/1/1522751323115.xml
+
+
+El detectiu Conan 646 (2019-05-02)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5757323
+Titol: La ruta de les set meravelles de miyajima. hiroshima.
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/4/1522549367941.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/8/1522549388382.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/2/1522819680527.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/4/1522819682446.xml
+
+
+El detectiu Conan 818 (2019-05-06)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5849628
+Titol: El cas del concurs d'estels al riu Teimuzu (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/8/1556579907584.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/4/1556579929741.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/1/1556889913417.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/1/1556889914416.xml
+
+
+El detectiu Conan 819 (2019-05-06)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5849612
+Titol: El cas del concurs d'estels al riu Teimuzu (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/6/1556579969163.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/7/1556579989874.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/6/1556889916369.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/2/1556889918628.xml
+
+
+El detectiu Conan 820 (2019-05-07)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5850108
+Titol: L'amant que va desaparèixer a la tempesta de neu
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/4/1556662856949.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/0/1556662876800.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/3/1557149057738.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/8/1557149058881.xml
+
+
+El detectiu Conan 821 (2019-05-07)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5850106
+Titol: L'Ai, retinguda contra la seva voluntat
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/7/1556662496877.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/0/1556662519304.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/3/1557206731231.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/5/1557206732153.xml
+
+
+El detectiu Conan 647 (2019-05-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5757447
+Titol: La coartada d'una caiguda
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/3/1522629520835.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/8/1522629562188.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/5/1523338212259.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/0/1523338214303.xml
+
+
+El detectiu Conan 822 (2019-05-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5850921
+Titol: Un pacient d'urgències problemàtic
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/8/1556844658789.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/9/1556844678894.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/9/1557224693897.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/7/1557224694874.xml
+
+
+El detectiu Conan 648 (2019-05-09)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5757584
+Titol: El crim dels banys termals tancats (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/8/1522715117386.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/5/1522715137351.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/4/1523356288047.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/9/1523356289892.xml
+
+
+El detectiu Conan 649 (2019-05-09)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5757772
+Titol: El crim dels banys termals tancats (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/1/1522801995812.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/0/1522802016507.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/2/1523356282424.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/8/1523356284387.xml
+
+
+El detectiu Conan 824 (2019-05-13)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5852586
+Titol: Una tensa reunió d'amigues (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/1/1557185537010.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/6/1557185555461.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/7/1557725104172.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/2/1557725105424.xml
+
+
+El detectiu Conan 823 (2019-05-13)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5852587
+Titol: Una tensa reunió d'amigues (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/4/1557185749946.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/1/1557185770210.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/9/1557466010090.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/9/1557466011094.xml
+
+
+El detectiu Conan 825 (2019-05-14)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5852998
+Titol: L'incident d'en Shinichi Kudo a l'aquari (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/7/1557271811777.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/2/1557271832222.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/5/1557743109558.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/3/1557743110634.xml
+
+
+El detectiu Conan 826 (2019-05-14)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5852999
+Titol: L'incident d'en Shinichi Kudo a l'aquari (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/4/1557272225042.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/6/1557272288163.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/5/1557743112450.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/3/1557743113536.xml
+
+
+El detectiu Conan 650 (2019-05-15)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5758507
+Titol: El justicier
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/9/1523053720092.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/8/1523053740489.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/4/1523511066442.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/3/1523511068436.xml
+
+
+El detectiu Conan 827 (2019-05-15)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5853409
+Titol: "El crit" de Munch desapareix
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/5/1557354273056.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/4/1557354292441.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/0/1557897935201.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/6/1557897936360.xml
+
+
+El detectiu Conan 651 (2019-05-16)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5758937
+Titol: L'esperit del riu (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/4/1523312922643.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/8/1523312941788.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/4/1523529093447.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/3/1523529095336.xml
+
+
+El detectiu Conan 652 (2019-05-16)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5758938
+Titol: L'esperit del riu (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/7/1523313081878.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/4/1523313101646.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/8/1523529087688.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/5/1523529089751.xml
+
+
+El detectiu Conan 828 (2019-05-20)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5854651
+Titol: El gran detectiu, entre l'espasa i la paret (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/2/1557620204429.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/2/1557620211726.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/8/1557926711281.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/0/1557926712202.xml
+
+
+El detectiu Conan 829 (2019-05-20)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5854667
+Titol: El gran detectiu, entre l'espasa i la paret (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/5/1557620480953.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/4/1557620501445.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/7/1558261542374.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/4/1558261543443.xml
+
+
+El detectiu Conan 830 (2019-05-21)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5854952
+Titol: La lliga de detectius júnior contra els detectius de la tercera edat
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/2/1557707048926.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/4/1557707068746.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/7/1558416369676.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/3/1558416370734.xml
+
+
+El detectiu Conan 831 (2019-05-21)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5854951
+Titol: El miratge de l'àngel que desapareix
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/3/1557706781432.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/6/1557706804169.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/4/1558416366744.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/1/1558416367717.xml
+
+
+El detectiu Conan 653 (2019-05-22)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5759172
+Titol: El dimoni que s'amaga a la pista de tenis
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/7/1523398965971.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/0/1523399004208.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/8/1523961014486.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/7/1523961019976.xml
+
+
+El detectiu Conan 654 (2019-05-22)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5759185
+Titol: El misteri de la sala tancada de la sessió d'espiritisme (1a sala tancada)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/4/1523407125340.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/1/1523407162413.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/0/1524029423708.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/6/1524029425568.xml
+
+
+El detectiu Conan 655 (2019-05-23)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5759473
+Titol: El misteri de la sala tancada de la sessió d'espiritisme (2a sala tancada)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/8/1523493795486.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/2/1523493816020.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/4/1524058284747.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/8/1524058286580.xml
+
+
+El detectiu Conan 656 (2019-05-23)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5760318
+Titol: El misteri de la sala tancada de la sessió d'espiritisme (S'obre la sala!)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/6/1523917436165.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/5/1523917458255.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/2/1524213136122.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/9/1524213137992.xml
+
+
+El detectiu Conan 832 (2019-05-27)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5858074
+Titol: Pròleg escarlata
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/3/1558222803636.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/9/1558222826791.mp4
+
+
+El detectiu Conan 833 (2019-05-27)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5858072
+Titol: Persecució escarlata
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/0/1558221907404.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/9/1558221929393.mp4
+
+
+El detectiu Conan 835 (2019-05-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5859529
+Titol: Retorn escarlata
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/5/1558481532956.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/0/1558481555403.mp4
+
+
+El detectiu Conan 834 (2019-05-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5858968
+Titol: Interrelació escarlata
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/7/1558390994779.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/0/1558391016309.mp4
+
+
+El detectiu Conan 836 (2019-05-29)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5859530
+Titol: Veritat escarlata
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/8/1558481721180.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/1/1558481765412.mp4
+
+
+El detectiu Conan 837 (2019-05-29)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5860128
+Titol: Benvinguts al Club de Vega
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/9/1558576241198.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/6/1558576262864.mp4
+
+
+El detectiu Conan 838 (2019-06-03)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5861517
+Titol: La partida de l'amor del Meijin Taiko (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/0/1558827013806.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/3/1558827032030.mp4
+
+
+El detectiu Conan 839 (2019-06-03)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5861492
+Titol: La partida de l'amor del Meijin Taiko (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/4/1558827167246.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/3/1558827188736.mp4
+
+
+El detectiu Conan 840 (2019-06-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5861909
+Titol: El misteri de la piscina (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/4/1558917000945.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/6/1558917031465.mp4
+
+
+El detectiu Conan 841 (2019-06-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5861910
+Titol: El misteri de la piscina (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/0/1558917010203.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/5/1558917054550.mp4
+
+
+El detectiu Conan 842 (2019-06-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5863116
+Titol: La predicció meteorològica de la reina
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/4/1559086376849.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/5/1559086395552.mp4
+
+
+El detectiu Conan 843 (2019-06-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5863128
+Titol: El servei sanguinari del Beikapon
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/0/1559085622509.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/6/1559085642066.mp4
+
+
+El detectiu Conan 668 (2019-06-13)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5763301
+Titol: El llibre de l'Apocalipsi de Holmes: L'amor és zero
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/5/1525134395656.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/0/1525134415600.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/1/1525757422813.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/8/1525757424381.xml
+
+
+El detectiu Conan 530 (2019-06-24)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3784170
+Titol: El detectiu Conan - Cap. 530: La història d'amor dels inspectors de la comissaria central de policia. El dit anular de la mà esquerra. Primera part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/1/8/1320250341681.mp4
+HQ: https://mp4-down-high-int.ccma.cat/4/0/1320250355104.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/9/1544759107394.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/9/1438738597692.xml
+
+
+El detectiu Conan 529 (2019-06-24)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3795390
+Titol: El detectiu Conan - Cap. 529: La desaparició del gat que saluda
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/6/4/1320811642946.mp4
+HQ: https://mp4-down-high-int.ccma.cat/9/3/1320811657239.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/1/1544759138514.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/2/1438738635324.xml
+
+
+El detectiu Conan 531 (2019-06-25)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3784190
+Titol: El detectiu Conan - Cap. 531: La història d'amor dels inspectors de la comissaria central de policia. El dit anular de la mà esquerra. Segona part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/5/6/1320250962565.mp4
+HQ: https://mp4-down-high-int.ccma.cat/7/6/1320250974767.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/8/1544759106281.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/8/1438738593183.xml
+
+
+El detectiu Conan 532 (2019-06-25)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3791530
+Titol: El detectiu Conan - Cap. 532: El dimoni dels estudis de televisió. Primera part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/5/6/1320665823665.mp4
+HQ: https://mp4-down-high-int.ccma.cat/9/3/1320665840639.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/5/1544759085353.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/7/1438738562077.xml
+
+
+El detectiu Conan 533 (2019-06-26)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3791570
+Titol: El detectiu Conan - Cap. 533: El dimoni dels estudis de televisió. Segona part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/5/7/1320667040675.mp4
+HQ: https://mp4-down-high-int.ccma.cat/5/1/1320667048015.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/6/1544759084364.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/0/1438738557804.xml
+
+
+El detectiu Conan 534 (2019-06-26)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3792950
+Titol: El detectiu Conan - Cap. 534: Enfrontament al tribunal 3. Una fiscal com a testimoni. Primera part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/5/9/1320698855695.mp4
+HQ: https://mp4-down-high-int.ccma.cat/4/3/1320698862134.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/7/1544759021778.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/6/1438738416267.xml
+
+
+El detectiu Conan 535 (2019-06-27)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3793031
+Titol: El detectiu Conan - Cap. 535: Enfrontament al tribunal 3. Una fiscal com a testimoni. Segona part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/7/7/1320699809977.mp4
+HQ: https://mp4-down-high-int.ccma.cat/1/0/1320699820501.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/6/1544759020663.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/4/1438738412241.xml
+
+
+El detectiu Conan 536 (2019-06-27)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3795270
+Titol: El detectiu Conan - Cap. 536: Heiji Hattori versus Shinichi Kudo. La gran batalla de les deduccions. Primera part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/5/7/1320791838775.mp4
+HQ: https://mp4-down-high-int.ccma.cat/1/0/1320791851201.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/8/1544758993489.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/2/1438738359923.xml
+
+
+El detectiu Conan 537 (2019-06-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3795290
+Titol: El detectiu Conan - Cap. 537: Heiji Hattori versus Shinichi Kudo. La gran batalla de les deduccions. Segona part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/6/6/1320792433966.mp4
+HQ: https://mp4-down-high-int.ccma.cat/6/1/1320792445816.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/7/1544758992275.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/7/1438738355576.xml
+
+
+El detectiu Conan 538 (2019-06-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3795410
+Titol: El detectiu Conan - Cap. 538: El xoc entre el vermell i el negre. L'origen. Primera part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/3/8/1320812229483.mp4
+HQ: https://mp4-down-high-int.ccma.cat/0/7/1320812248570.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/8/1544758967181.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/5/1438738311759.xml
+
+
+El detectiu Conan 539 (2019-07-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3797130
+Titol: El detectiu Conan - Cap. 539: El xoc entre el vermell i el negre. Lligams de sang. Segona part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/1/5/1320875553051.mp4
+HQ: https://mp4-down-high-int.ccma.cat/7/1/1320875564617.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/8/1544758965987.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/3/1438738307135.xml
+
+
+El detectiu Conan 540 (2019-07-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3797150
+Titol: El detectiu Conan - Cap. 540: El xoc entre el vermel i el negre. El crit. Tercera part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/3/6/1320876442063.mp4
+HQ: https://mp4-down-high-int.ccma.cat/5/1/1320876456315.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/8/1544758942985.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/8/1438738272588.xml
+
+
+El detectiu Conan 541 (2019-07-02)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3797370
+Titol: El detectiu Conan - Cap. 541: El xoc entre el vermel i el negre. L'infern. Quarta part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/7/6/1320908527967.mp4
+HQ: https://mp4-down-high-int.ccma.cat/8/0/1320908539808.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/1/1544758941917.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/0/1438738268009.xml
+
+
+El detectiu Conan 542 (2019-07-02)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3797390
+Titol: El detectiu Conan - Cap.: 542: El xoc entre el vermel i el negre. En coma. Cinquena part.
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/3/0/1320908562403.mp4
+HQ: https://mp4-down-high-int.ccma.cat/9/6/1320908845269.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/8/1544758928382.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/3/1438738236634.xml
+
+
+El detectiu Conan 543 (2019-07-03)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3805590
+Titol: El detectiu Conan - Cap. 543: El xoc entre el vermell i el negre. La invasió. Sisena part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/9/8/1321300352889.mp4
+HQ: https://mp4-down-high-int.ccma.cat/7/8/1321300364487.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/5/1544758927254.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/3/1438738232635.xml
+
+
+El detectiu Conan 544 (2019-07-03)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3805630
+Titol: El detectiu Conan - Cap. 544: El xoc entre el vermell i el negre. El despertar. Setena part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/8/0/1321301232708.mp4
+HQ: https://mp4-down-high-int.ccma.cat/4/1/1321301240914.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/4/1544758872947.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/5/1438738114953.xml
+
+
+El detectiu Conan 545 (2019-07-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3808610
+Titol: El detectiu Conan - Cap. 545: El xoc entre el vermel i el negre. La distracció. Vuitena part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/2/3/1321452231832.mp4
+HQ: https://mp4-down-high-int.ccma.cat/7/0/1321452242907.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/9/1544758870793.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/9/1438738105599.xml
+
+
+El detectiu Conan 546 (2019-07-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3808690
+Titol: El detectiu Conan - Cap. 546: El xoc entre el vermel i el negre. El camuflatge. Novena part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/3/8/1321453601583.mp4
+HQ: https://mp4-down-high-int.ccma.cat/1/2/1321453618921.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/3/1544758844339.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/1/1438737266719.xml
+
+
+El detectiu Conan 547 (2019-07-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3810490
+Titol: El detectiu Conan - Cap. 547: El xoc entre el vermell i el negre. El testament. Desena part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/5/8/1321480332485.mp4
+HQ: https://mp4-down-high-int.ccma.cat/9/4/1321480345749.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/9/1544758843194.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/7/1438737262472.xml
+
+
+El detectiu Conan 548 (2019-07-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3810570
+Titol: El detectiu Conan - Cap. 548: El xoc entre el vermell i el negre. La sospita. Onzena part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/5/9/1321481267995.mp4
+HQ: https://mp4-down-high-int.ccma.cat/8/4/1321481277048.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/5/1544758821558.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/3/1438737233838.xml
+
+
+El detectiu Conan 549 (2019-07-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3811370
+Titol: El detectiu Conan - Cap. 549: El xoc entre el vermell i el negre. La innocència. Dotzena part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/5/1/1321503749315.mp4
+HQ: https://mp4-down-high-int.ccma.cat/2/7/1321503775572.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/9/1544758820196.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/8/1438737229286.xml
+
+
+El detectiu Conan 550 (2019-07-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3811371
+Titol: El detectiu Conan - Cap. 550 - El xoc entre el vermell i el negre. La mort. Tretzena part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/4/2/1321503811724.mp4
+HQ: https://mp4-down-high-int.ccma.cat/1/1/1321503822411.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/4/1544758787544.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/8/1438737206883.xml
+
+
+El detectiu Conan 551 (2019-07-09)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3814970
+Titol: El detectiu Conan - Cap. 551: El xoc entre el vermel i el negre. La víctima. Catorzena part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/2/8/1321590736482.mp4
+HQ: https://mp4-down-high-int.ccma.cat/9/8/1321590753389.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/7/1544758786274.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/3/1438737202632.xml
+
+
+El detectiu Conan 552 (2019-07-09)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3814950
+Titol: El detectiu Conan - Cap. 552: El testimoni de l'advocada Eri Kiski. Primera part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/9/8/1321590442289.mp4
+HQ: https://mp4-down-high-int.ccma.cat/2/1/1321590454012.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/7/1544758765870.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/1/1438737175416.xml
+
+
+El detectiu Conan 553 (2019-07-10)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3820810
+Titol: El detectiu Conan - Cap. 553: El testimoni de l'advocada Eri Kiski. Segona part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/8/0/1321965749508.mp4
+HQ: https://mp4-down-high-int.ccma.cat/1/3/1321965761331.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/6/1544758764666.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/0/1438737170800.xml
+
+
+El detectiu Conan 554 (2019-07-10)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3820910
+Titol: El detectiu Conan - Cap. 554: L'angle mort del karaoke. Primera part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/2/4/1321969024942.mp4
+HQ: https://mp4-down-high-int.ccma.cat/9/1/1321969034619.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/8/1544758700788.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/0/1438737038507.xml
+
+
+El detectiu Conan 555 (2019-07-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3822310
+Titol: El detectiu Conan - Cap. 555: L'angle mort del karaoke. Segona part
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/5/5/1321998147555.mp4
+HQ: https://mp4-down-high-int.ccma.cat/4/3/1321998159534.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/3/1544758699639.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/9/1438737034190.xml
+
+
+El detectiu Conan 556 (2019-07-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3822330
+Titol: El detectiu Conan - Cap. 556: Vermell, blanc, groc i la Lliga de Detectius Júnior
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/0/4/1321998776940.mp4
+HQ: https://mp4-down-high-int.ccma.cat/3/6/1321998785763.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/6/1544758674363.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/9/1438736990393.xml
+
+
+El detectiu Conan 557 (2019-07-12)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3823890
+Titol: El detectiu Conan - Cap. 557: En Conan i el misteri del codi doble
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/3/1/1322081529413.mp4
+HQ: https://mp4-down-high-int.ccma.cat/9/6/1322081541869.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/2/1544758672922.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/2/1438736985723.xml
+
+
+El detectiu Conan 558 (2019-07-12)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3823910
+Titol: El detectiu Conan - Cap. 558: El combat de deduccions! En Shinichi contra en Subaru Okiya
+MQ: http://mp4-medium-dwn.media.tv3.cat/g/tvcatalunya/9/1/1322081823619.mp4
+HQ: https://mp4-down-high-int.ccma.cat/1/8/1322081830781.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/2/1544758648522.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/3/1438736944439.xml
+
+
+El detectiu Conan 492 (2019-03-26)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3732230
+Titol: El detectiu Conan - Cap. 492: El fantasma de Konpira (II)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/3/1317784641839.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/5/1317784940156.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/5/1544757980754.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/0/1487267794402.xml
+
+
+El detectiu Conan 493 (2019-03-27)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3733430
+Titol: El detectiu Conan - Cap. 493: La preestrena del karma i de l'amistat
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/8/1317810734381.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/6/1317810746469.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/8/1544757950381.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/3/1438734656935.xml
+
+
+El detectiu Conan 496 (2019-03-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3735530
+Titol: El detectiu Conan - Cap. 496: La meva novel·la preferida
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/1/1317837449714.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/0/1317837775302.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/7/1544757921475.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/1/1438734613919.xml
+
+
+El detectiu Conan 494 (2019-03-27)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3733470
+Titol: El detectiu Conan - Cap. 492: Un desenllaç capgirat (Primera part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/4/1317811350645.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/4/1317811365045.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/2/1544757949021.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/3/1438734652434.xml
+
+
+El detectiu Conan 495 (2019-03-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3735471
+Titol: El detectiu Conan - Cap. 495: Un desenllaç capgirat (Segona part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/4/1317837177247.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/6/1317837435466.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/8/1544757922685.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/3/1438734619938.xml
+
+
+El detectiu Conan 497 (2019-03-29)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3742370
+Titol: El detectiu Conan - Cap. 497: El mocador vermell de la Sonoko (Primera part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/2/1318024350726.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/1/1318024361713.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/7/1544757891874.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/4/1438734568049.xml
+
+
+El detectiu Conan 498 (2019-03-29)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3742390
+Titol: El detectiu Conan - Cap. 498: El mocador vermell de la Sonoko (Segona part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/0/1318024637201.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/7/1318024645772.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/0/1544757889702.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/3/1438734560937.xml
+
+
+El detectiu Conan 499 (2019-04-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3745670
+Titol: El detectiu Conan - Cap. 499: L'abominable home de les normes
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/5/1318279324952.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/3/1318279335730.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/5/1544757825658.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/4/1438733658745.xml
+
+
+El detectiu Conan 500 (2019-04-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3745710
+Titol: El detectiu Conan - Cap. 500: La gran operació d'1-B
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/9/1318279955698.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/0/1318279961509.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/9/1544757824490.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/9/1438733653691.xml
+
+
+El detectiu Conan 502 (2019-04-02)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3747870
+Titol: El detectiu Conan - Cap. 502: L'ombra de l'organització dels homes de negre. El petit testimoni
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/8/1318377136184.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/5/1318377148158.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/5/1544757789259.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/4/1438733576341.xml
+
+
+El detectiu Conan 501 (2019-04-02)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3747850
+Titol: El detectiu Conan - Cap. 501: La pàgina que havia desaparegut
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/3/1318376268434.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/5/1318376280454.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/0/1544757790602.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/2/1438733580825.xml
+
+
+El detectiu Conan 503 (2019-04-03)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3749330
+Titol: El detectiu Conan - Cap. 503: L'ombra de l'organització dels homes de negre. Una lluminària extravagant
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/7/1318508838573.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/1/1318508854013.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/2/1544757759323.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/9/1438733524499.xml
+
+
+El detectiu Conan 504 (2019-04-03)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3749390
+Titol: El detectiu Conan - Cap. 504: L'ombra de l'organització dels homes de negre. La recompensa misteriosa
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/1/1318509745612.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/0/1318509758601.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/8/1544757758187.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/0/1438733519108.xml
+
+
