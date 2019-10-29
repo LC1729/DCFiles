@@ -1641,3 +1641,21 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/2/6/1571664242262.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/1/5/1571664243451.xml
 
 
+La màgica Do-Re-Mi 181 (2019-10-29)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5941949
+Titol: En Pao viurà a la casa Mao?
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/2/1571617261820.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/6/1571617317665.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/1/1571750665613.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/3/1571750667036.xml
+
+
+La màgica Do-Re-Mi 182 (2019-10-29)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5941948
+Titol: No cal que siguis una nena exemplar!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/2/1571617250624.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/6/1571617296660.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/3/1571750669630.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/7/1571750670872.xml
+
+
