@@ -1659,3 +1659,21 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/0/3/1571750669630.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/2/7/1571750670872.xml
 
 
+La màgica Do-Re-Mi 183 (2019-10-30)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5942643
+Titol: Els dubtes de l'Onpu!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/8/1571703446082.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/7/1571703489779.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/3/1571837100430.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/4/1571837101548.xml
+
+
+La màgica Do-Re-Mi 184 (2019-10-30)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5942647
+Titol: No em separaré mai de la Babà!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/7/1571704307674.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/1/1571704327117.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/6/1571837103561.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/4/1571837104547.xml
+
+
