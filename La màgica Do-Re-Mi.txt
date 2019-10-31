@@ -1677,3 +1677,21 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/1/6/1571837103561.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/7/4/1571837104547.xml
 
 
+La màgica Do-Re-Mi 185 (2019-10-31)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5943456
+Titol: La cursa de l'exàmen del quart nivell!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/9/1571791043398.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/9/1571791064694.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/6/1571923552867.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/8/1571923553982.xml
+
+
+La màgica Do-Re-Mi 186 (2019-10-31)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5943468
+Titol: Fins on sigui, amb bicicleta!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/2/1571790409321.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/9/1571790429995.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/4/1571923549243.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/9/1571923550697.xml
+
+
