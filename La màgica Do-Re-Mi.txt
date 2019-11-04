@@ -1695,3 +1695,21 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/3/4/1571923549243.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/7/9/1571923550697.xml
 
 
+La màgica Do-Re-Mi 187 (2019-11-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5946515
+Titol: L'holocaust? El són dels bruixots!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/1/1572132054012.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/1/1572132075110.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/2/1572272662820.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/4/1572272663742.xml
+
+
+La màgica Do-Re-Mi 188 (2019-11-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5946511
+Titol: Per fi es tornaran a casar? La decisió de l'Aiko!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/3/1572131787030.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/6/1572131820765.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/1/1572272659710.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/6/1572272660867.xml
+
+
