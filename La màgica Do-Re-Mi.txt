@@ -1713,3 +1713,21 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/0/1/1572272659710.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/7/6/1572272660867.xml
 
 
+La màgica Do-Re-Mi 189 (2019-11-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5947106
+Titol: Amb tot el cor! La Rosa Blanca de la Felicitat!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/3/1572221894631.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/7/1572221915672.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/1/1572359063118.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/5/1572359064058.xml
+
+
+La màgica Do-Re-Mi 190 (2019-11-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5947107
+Titol: La Do-re-mi i la bruixa que va deixar la màgia!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/3/1572222256138.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/0/1572222276305.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/2/1572359060129.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/1/1572359061114.xml
+
+
