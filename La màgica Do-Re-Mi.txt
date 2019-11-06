@@ -1731,3 +1731,21 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/9/2/1572359060129.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/4/1/1572359061114.xml
 
 
+La màgica Do-Re-Mi 191 (2019-11-06)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5947999
+Titol: La Popi serà la primera en convertir-se en bruixa?
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/8/1572316375385.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/5/1572316394852.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/5/1572445512558.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/2/1572445513926.xml
+
+
+La màgica Do-Re-Mi 192 (2019-11-06)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5947997
+Titol: La Hazuki vol escollir el seu camí!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/7/1572316160379.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/8/1572316185283.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/9/1572445508498.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/0/1572445509800.xml
+
+
