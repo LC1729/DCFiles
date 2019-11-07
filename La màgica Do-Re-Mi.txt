@@ -1749,3 +1749,21 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/8/9/1572445508498.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/0/0/1572445509800.xml
 
 
+La màgica Do-Re-Mi 193 (2019-11-07)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5948886
+Titol: L'exàmen de la Floreta i la depressió de la Tamaki!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/6/1572394519067.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/2/1572394538421.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/2/1572531948529.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/6/1572531949567.xml
+
+
+La màgica Do-Re-Mi 194 (2019-11-07)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5948889
+Titol: Ens hem d'afanyar! L'última pista!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/6/1572396556962.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/9/1572396575999.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/3/1572531952035.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/4/1572531953141.xml
+
+
