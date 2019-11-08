@@ -1767,3 +1767,21 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/5/3/1572531952035.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/1/4/1572531953141.xml
 
 
+La màgica Do-Re-Mi 195 (2019-11-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5949560
+Titol: Hem d'eliminar el Roser de la Tristesa!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/2/1572485240623.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/0/1572485264709.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/3/1572618346934.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/8/1572618348182.xml
+
+
+La màgica Do-Re-Mi 196 (2019-11-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5949562
+Titol: Adéu al malefici de les bruixes granota!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/8/1572486682585.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/6/1572486702365.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/1/1572618343013.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/5/1572618344550.xml
+
+
