@@ -1785,3 +1785,21 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/3/1/1572618343013.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/0/5/1572618344550.xml
 
 
+La màgica Do-Re-Mi 197 (2019-11-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5951127
+Titol: Per lluny que sigui!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/4/1572740685248.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/0/1572740705500.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/8/1572877467082.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/8/1572877468283.xml
+
+
+La màgica Do-Re-Mi 198 (2019-11-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5951148
+Titol: El dia més feliç per l'Aiko!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/6/1572740723069.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/3/1572740750935.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/1/1572877471610.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/9/1572877472897.xml
+
+
