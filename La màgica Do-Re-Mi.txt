@@ -1821,3 +1821,21 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/8/8/1572963876388.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/5/2/1572963877425.xml
 
 
+La màgica Do-Re-Mi 201 (2019-11-13)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5952425
+Titol: Gràcies i a reveure!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/7/1572917283678.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/0/1572917305706.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/8/1573050289882.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/1/1573050291315.xml
+
+
+La màgica Do-Re-Mi 202 (2019-11-13)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5952448
+Titol: Una excursió molt accidentada! El secret dels nens!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/5/1572917618757.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/1/1572917632014.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/6/1573050286765.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/5/1573050287850.xml
+
+
