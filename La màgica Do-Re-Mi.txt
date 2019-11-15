@@ -1857,3 +1857,21 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/1/4/1573136713741.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/6/0/1573136714806.xml
 
 
+La màgica Do-Re-Mi 205 (2019-11-15)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5954233
+Titol: Diferent! El secret de l'Onpu!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/9/1573086446395.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/2/1573086466121.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/4/1573223119146.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/7/1573223120172.xml
+
+
+La màgica Do-Re-Mi 206 (2019-11-15)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5954206
+Titol: Les expertes en llàgrimes! / El secret de la Popi i de la Flor!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/3/1573085734031.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/2/1573085752228.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/5/1573223116058.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/3/1573223117235.xml
+
+
