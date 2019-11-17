@@ -1720,3 +1720,39 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/7/8/1544757758187.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/8/0/1438733519108.xml
 
 
+El detectiu Conan 845 (2019-11-16)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5954933
+Titol: Els tres primers d'arribar (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/3/1573176418032.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/5/1573176439357.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/2/1573817195925.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/9/1573817197291.xml
+
+
+El detectiu Conan 844 (2019-11-16)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5954946
+Titol: L'inspector Takagi fuig emmanillat
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/0/1573175938702.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/4/1573175958544.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/7/1573367122676.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/1/1573367123710.xml
+
+
+El detectiu Conan 847 (2019-11-17)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5955647
+Titol: El guardaespatlles Kogoro Mouri
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/5/1573259479556.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/5/1573259500353.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/1/1573827914817.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/9/1573827916196.xml
+
+
+El detectiu Conan 846 (2019-11-17)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5955611
+Titol: Els tres primers d'arribar (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/5/1573258737955.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/5/1573258779358.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/6/1573827918264.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/4/1573827919546.xml
+
+
