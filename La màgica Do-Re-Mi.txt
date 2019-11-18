@@ -1875,3 +1875,21 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/8/5/1573223116058.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/5/3/1573223117235.xml
 
 
+La màgica Do-Re-Mi 207 (2019-11-18)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5955970
+Titol: El record dels anissos! / El secret de la teta!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/7/1573346197674.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/7/1573346218777.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/1/1574074161614.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/5/1574074162650.xml
+
+
+La màgica Do-Re-Mi 208 (2019-11-18)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5955972
+Titol: M'agraden els peixets de galeta! / El secret d'un pare i d'un fill
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/2/1573346645829.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/4/1573346665445.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/3/1574074165036.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/7/1574074166472.xml
+
+
