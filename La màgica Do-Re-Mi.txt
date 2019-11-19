@@ -1893,3 +1893,21 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/6/3/1574074165036.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/2/7/1574074166472.xml
 
 
+La màgica Do-Re-Mi 209 (2019-11-19)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5956466
+Titol: L'incident de la flauta! / El secret del delegat de la classe!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/2/1573435411225.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/9/1573435440393.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/0/1574074115504.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/6/1574074117467.xml
+
+
+La màgica Do-Re-Mi 210 (2019-11-19)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5956446
+Titol: L'increïble equip de beisbol! / El secret de les bruixes!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/2/1573434719023.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/6/1573434738362.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/2/1574074119625.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/3/1574074120734.xml
+
+
