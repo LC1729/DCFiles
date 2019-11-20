@@ -1911,3 +1911,21 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/5/2/1574074119625.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/4/3/1574074120734.xml
 
 
+La màgica Do-Re-Mi 211 (2019-11-20)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5957286
+Titol: La promesa! / El secret de l'amic d'infantesa!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/4/1573518088943.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/0/1573518119907.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/5/1574074082355.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/2/1574074083523.xml
+
+
+La màgica Do-Re-Mi 212 (2019-11-20)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5957291
+Titol: El dia de Sant Valentí! / El secret de la Hazuki!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/4/1573519320847.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/3/1573519339930.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/2/1574074085722.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/4/1574074086945.xml
+
+
