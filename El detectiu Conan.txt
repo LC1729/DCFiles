@@ -1774,3 +1774,21 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/3/9/1574335509593.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/0/7/1574335511070.xml
 
 
+El detectiu Conan 850 (2019-11-24)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5960792
+Titol: La confusa deducció d'una joveneta somiadora
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/6/1573864568561.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/7/1573864589271.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/1/1574422027518.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/4/1574422028744.xml
+
+
+El detectiu Conan 851 (2019-11-24)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5960809
+Titol: Un blanc en moviment
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/9/1573865447092.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/3/1573865458834.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/8/1574576747080.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/4/1574576748248.xml
+
+
