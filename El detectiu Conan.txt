@@ -1792,3 +1792,23 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/0/8/1574576747080.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/8/4/1574576748248.xml
 
 
+El detectiu Conan 852 (2019-11-30)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5964887
+Titol: La batalla de deduccions dels detectius júnior
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/6/1574385564762.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/2/6/1574385564762.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/3/1574385589433.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/3/1574951162433.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/6/1574951163662.xml
+
+
+El detectiu Conan 853 (2019-11-30)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5964886
+Titol: A la recerca dels cent milions de iens
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/6/1574385320961.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/6/1574385320961.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/0/1574385340302.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/8/1574951165789.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/8/1574951167084.xml
+
+
