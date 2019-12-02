@@ -1812,3 +1812,23 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/9/8/1574951165789.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/4/8/1574951167084.xml
 
 
+El detectiu Conan 855 (2019-12-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5965687
+Titol: El misteri de les dunes de Tottori (Part de Tottori)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/7/1574468204974.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/7/1574468204974.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/3/1574468225535.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/7/1575113188474.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/9/1575113189696.xml
+
+
+El detectiu Conan 854 (2019-12-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5965688
+Titol: El misteri de les dunes de Tottori (Part de Kurayoshi)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/1/1574468595216.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/6/1/1574468595216.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/6/1574468615260.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/7/1575181527979.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/7/1575181529277.xml
+
+
