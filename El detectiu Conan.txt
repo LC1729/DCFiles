@@ -1832,3 +1832,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/9/7/1575181527979.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/7/7/1575181529277.xml
 
 
+El detectiu Conan 856 (2019-12-07)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5970591
+Titol: L'incendiari dels parcs infantils
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/4/1574990169245.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/5/4/1574990169245.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/9/1574990189797.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/2/1575458679121.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/8/1575458680683.xml
+
+
+El detectiu Conan 857 (2019-12-07)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5970606
+Titol: El misteri teatral d'en Conan i l'Ebizo (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/7/1574990620072.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/2/7/1574990620072.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/8/1574990639986.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/5/1575545153250.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/6/1575545154666.xml
+
+
+El detectiu Conan 859 (2019-12-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5971446
+Titol: El misteri teatral d'en Conan i l'Ebizo (3a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/6/1575073016967.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/7/6/1575073016967.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/2/1575073032826.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/5/1575700050154.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/5/1575700051358.xml
+
+
+El detectiu Conan 858 (2019-12-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5971449
+Titol: El misteri teatral d'en Conan i l'Ebizo (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/0/1575074223103.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/3/0/1575074223103.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/2/1575074242524.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/8/1575545142982.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/8/1575545146280.xml
+
+
