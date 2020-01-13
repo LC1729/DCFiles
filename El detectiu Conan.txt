@@ -1912,3 +1912,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/0/7/1576391122470.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/3/4/1576391123743.xml
 
 
+El detectiu Conan 863 (2020-01-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5997067
+Titol: L'hostal del Kamaitachi (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/2/1578014477622.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/2/2/1578014477622.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/1/1578014497317.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/1/1578723984314.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/0/1578723985607.xml
+
+
+El detectiu Conan 864 (2020-01-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5997066
+Titol: L'hostal del Kamaitachi (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/9/1578014150394.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/9/1578014150394.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/9/1578014172698.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/3/1578723980838.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/6/1578723982068.xml
+
+
+El detectiu Conan 866 (2020-01-12)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5997786
+Titol: La foscor de la policia de la prefectura (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/3/1578101202730.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/3/1578101202730.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/6/1578101222960.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/5/1578741913458.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/5/1578741914853.xml
+
+
+El detectiu Conan 865 (2020-01-12)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=5997766
+Titol: La foscor de la policia de la prefectura (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/8/1578101171785.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/5/8/1578101171785.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/8/1578101192389.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/0/1578723965208.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/8/1578723966685.xml
+
+
