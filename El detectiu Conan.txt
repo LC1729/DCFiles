@@ -1952,3 +1952,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/8/0/1578723965208.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/5/8/1578723966685.xml
 
 
+El detectiu Conan 869 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6002526
+Titol: El cas de l'habitació tancada de l'actriu bloguera (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/1/1578618985710.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/1/1578618985710.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/7/1578619006378.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/1/1579271193919.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/8/1579271195284.xml
+
+
+El detectiu Conan 867 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6002528
+Titol: La foscor de la policia de la prefectura (3a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/8/1578619645880.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/8/1578619645880.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/6/1578619667468.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/8/1579260386482.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/0/1579260388001.xml
+
+
+El detectiu Conan 870 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6003866
+Titol: El cas de l'habitació tancada de l'actriu bloguera (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/8/1578706253485.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/5/8/1578706253485.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/7/1578706274776.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/4/1579328863546.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/3/1579328864836.xml
+
+
+El detectiu Conan 871 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6003867
+Titol: Un extraterrestre que no ho sembla gens
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/1/1578706703917.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/7/1/1578706703917.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/5/1578706724856.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/2/1579328859726.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/6/1579328861163.xml
+
+
