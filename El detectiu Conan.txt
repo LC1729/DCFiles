@@ -2032,3 +2032,23 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/9/7/1579876028679.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/1/6/1579876029961.xml
 
 
+El detectiu Conan 877 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6027875
+Titol: Els sospitosos són una parella molt enamorada (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/7/1580729922871.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/7/1580729922871.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/7/1580729944971.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/6/1580739968363.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/5/1580739969358.xml
+
+
+El detectiu Conan 878 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6027873
+Titol: Els sospitosos són una parella molt enamorada (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/5/1580729807158.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/8/5/1580729807158.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/3/1580729828333.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/0/1580739964004.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/1/1580739965610.xml
+
+
