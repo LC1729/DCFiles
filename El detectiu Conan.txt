@@ -2052,3 +2052,41 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/4/0/1580739964004.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/0/1/1580739965610.xml
 
 
+El detectiu Conan 876 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6029542
+TÃ­tol: El secret ocult del temple Dongaraji
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/6/8/1581443020386.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/2/1581443040225.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/2/1581489226223.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/7/1581489227770.xml
+
+
+El detectiu Conan 879 (2020-02-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6029543
+TÃ­tol: Els detectius jÃºnior es resguarden de la pluja
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/2/3/1581442839632.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/1/1581442920514.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/5/1581489222356.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/8/1581489223789.xml
+
+
+El detectiu Conan 880 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6025113
+Titol: El cas de les marees inverses al parc
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/3/1580433887339.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/3/1580433887339.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/3/1580433907233.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/4/1580883934041.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/9/1580883935292.xml
+
+
+El detectiu Conan 881 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6026406
+Titol: Bellesa, mentides i secrets
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/9/1580520379091.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/9/1580520379091.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/3/1580520401033.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/6/1581143263564.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/9/1581143265392.xml
+
+
