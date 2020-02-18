@@ -2090,3 +2090,53 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/4/6/1581143263564.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/2/9/1581143265392.xml
 
 
+El detectiu Conan 882 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6030723
+Titol: Uns fideus tan bons que maten (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/6/1582028479463.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/3/6/1582028479463.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/4/1582028503448.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/1/1582036044613.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/2/1582036045727.xml
+
+
+El detectiu Conan 882 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6030700
+Titol: Uns fideus tan bons que maten (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/2/1582022898321.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/2/1582022898321.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/2/1582022919122.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/7/1582025201777.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/2/1582025203025.xml
+
+
+El detectiu Conan 883 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6030702
+Titol: Uns fideus tan bons que maten (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/2/1582023045028.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/8/2/1582023045028.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/4/1582023065045.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/2/1582025198526.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/9/1582025199696.xml
+
+
+El detectiu Conan 885 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6029066
+Titol: Una mansió envoltada de zombis (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/2/1581125839523.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/3/2/1581125839523.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/7/1581125858772.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/8/1581679626180.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/8/1581679627382.xml
+
+
+El detectiu Conan 884 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6030724
+Titol: El noi misteriós
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/3/1582028658836.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/6/3/1582028658836.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/3/1582028682130.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/3/1582036041433.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/3/1582036042534.xml
+
+
