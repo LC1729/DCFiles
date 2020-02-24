@@ -2140,3 +2140,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/3/3/1582036041433.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/4/3/1582036042534.xml
 
 
+El detectiu Conan 886 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6031126
+Titol: Una mansió envoltada de zombis (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/4/1582154238346.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/6/4/1582154238346.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/6/1582154257961.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/2/1582156641729.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/5/1582156643059.xml
+
+
+El detectiu Conan 887 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6030086
+Titol: Una mansió envoltada de zombis (3a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/1/1581643048516.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/6/1/1581643048516.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/0/1581643069307.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/7/1582284517471.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/5/1582284518659.xml
+
+
+El detectiu Conan 888 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6030328
+Titol: El punt feble del gran detectiu
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/4/1581735536840.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/4/1581735536840.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/2/1581735555820.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/0/1582295202503.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/5/1582295203650.xml
+
+
+El detectiu Conan 889 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6030327
+Titol: L'home que es mor dues vegades (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/2/1581735448024.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/2/1581735448024.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/4/1581735467946.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/0/1582295199106.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/6/1582295200464.xml
+
+
