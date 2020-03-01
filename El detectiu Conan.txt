@@ -2180,3 +2180,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/6/0/1582295199106.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/4/6/1582295200464.xml
 
 
+El detectiu Conan 890 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6031388
+Titol: L'home que es mor dues vegades (2a part) (capítol 890)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/9/1582249432899.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/9/1582249432899.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/3/1582249452335.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/5/1582372452155.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/5/1582372453458.xml
+
+
+El detectiu Conan 891 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6031389
+Titol: La banda de noies mal avingudes (1a part) (capítol 891)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/6/1582249791965.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/5/6/1582249791965.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/0/1582249811109.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/1/1582871212418.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/1/1582871213511.xml
+
+
+El detectiu Conan 892 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6031611
+Titol: La banda de noies mal avingudes (2a part) (capítol 892)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/9/1582331476093.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/3/9/1582331476093.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/2/1582331496021.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/5/1582889241258.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/5/1582889242350.xml
+
+
+El detectiu Conan 893 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6031608
+Titol: El misteri del globus aerostàtic (capítol 893)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/0/1582330996300.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/0/1582330996300.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/5/1582331018752.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/0/1582889237607.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/3/1582889238931.xml
+
+
