@@ -2220,3 +2220,23 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/7/0/1582889237607.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/1/3/1582889238931.xml
 
 
+El detectiu Conan 894 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6032559
+Titol: Se sent la veu del Tengu (capítol 894)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/9/1582848966592.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/2/9/1582848966592.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/0/1582848988205.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/1/1582919878212.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/1/1582919879317.xml
+
+
+El detectiu Conan 895 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6032560
+Titol: L'últim regal (capítol 895)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/7/1582849626073.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/3/7/1582849626073.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/9/1582849646797.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/3/1583258257039.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/8/1583258258185.xml
+
+
