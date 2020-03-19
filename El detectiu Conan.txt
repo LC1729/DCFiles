@@ -2240,3 +2240,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/9/3/1583258257039.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/5/8/1583258258185.xml
 
 
+El detectiu Conan 897 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6033784
+Titol: Un passeig en cotxe amb un gir inesperat (capítol 897)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/7/1583458290577.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/7/7/1583458290577.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/2/1583458312226.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/5/1583482218859.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/3/1583482220331.xml
+
+
+El detectiu Conan 896 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6033783
+Titol: La parada de bus sota la pluja (capítol 896)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/7/1583458141475.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/5/7/1583458141475.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/3/1583458161533.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/5/1583467762853.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/1/1583467764212.xml
+
+
+El detectiu Conan 899 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6034035
+Titol: Les contradiccions de la lliga de detectius júnior (2a part) (899)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/6/1583541028665.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/5/6/1583541028665.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/0/1583541051807.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/0/1584167347102.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/6/1584167348467.xml
+
+
+El detectiu Conan 898 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6034036
+Titol: Les contradiccions de la lliga de detectius júnior (1a part) (capítol 898)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/4/1583541270843.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/3/4/1583541270843.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/9/1583541290695.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/4/1583546264740.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/3/1583546266138.xml
+
+
