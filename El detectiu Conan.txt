@@ -2280,3 +2280,23 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/0/4/1583546264740.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/8/3/1583546266138.xml
 
 
+El detectiu Conan 901 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6035024
+Titol: En Conan atrapat a les fosques (2a part) (capítol 901)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/5/1584062923651.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/5/1584062923651.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/9/1584062930696.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/7/1584686000070.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/4/1584686001345.xml
+
+
+El detectiu Conan 900 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6035016
+Titol: En Conan atrapat a les fosques (1a part) (capítol 900)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/3/1584059267239.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/3/1584059267239.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/1/1584059288916.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/2/1584455100122.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/3/1584455101438.xml
+
+
