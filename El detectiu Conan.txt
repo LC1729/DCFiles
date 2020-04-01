@@ -2300,3 +2300,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/2/2/1584455100122.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/8/3/1584455101438.xml
 
 
+El detectiu Conan 903 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6036084
+Titol: Un cas d'ovnis difícil per a l'inspector Chiba (2a part) (capítol 903)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/7/1584663936877.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/7/7/1584663936877.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/2/1584663958223.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/0/1585216816909.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/2/1585216818021.xml
+
+
+El detectiu Conan 902 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6036085
+Titol: Un cas d'ovnis difícil per a l'inspector Chiba (1a part) (capítol 902)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/2/1584664238321.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/2/1584664238321.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/7/1584664256977.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/6/1585203857168.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/6/1585203858369.xml
+
+
+El detectiu Conan 904 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6036262
+Titol: La contrasenya del formulari de matrimoni (1a part) (capítol 904)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/7/1584750061872.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/2/7/1584750061872.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/6/1584750087867.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/0/1585221917205.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/9/1585221918597.xml
+
+
+El detectiu Conan 905 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6036517
+Titol: La contrasenya del formulari de matrimoni (2a part) (capítol 905)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/7/1585009361774.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/7/1585009361774.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/6/1585009381366.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/0/1585267262801.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/4/1585267264149.xml
+
+
