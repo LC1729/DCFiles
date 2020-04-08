@@ -2340,3 +2340,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/1/0/1585267262801.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/9/4/1585267264149.xml
 
 
+El detectiu Conan 907 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6036948
+Titol: Visita als inferns de l'amor (Oita) (capítol 907)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/8/1585268485280.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/8/1585268485280.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/3/1585268493934.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/1/1585897470712.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/3/1585897471937.xml
+
+
+El detectiu Conan 906 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6036950
+Titol: Visita als inferns de l'amor (Beppu) (capítol 906)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/3/1585268591133.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/3/3/1585268591133.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/3/1585268611938.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/3/1585563881934.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/5/1585563883252.xml
+
+
+El detectiu Conan 908 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6037054
+Titol: Records de la classe dels cirerers (La Ran de petita) (capítol 908)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/6/1585355023467.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/7/6/1585355023467.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/8/1585355071788.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/1/1585909451611.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/9/1585909452899.xml
+
+
+El detectiu Conan 909 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6037055
+Titol: Records de la classe dels cirerers (En Shinichi de petit) (capítol 909)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/2/1585356151629.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/2/1585356151629.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/9/1585356172499.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/8/1585909447982.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/3/1585909449133.xml
+
+
