@@ -2380,3 +2380,53 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/2/8/1585909447982.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/3/3/1585909449133.xml
 
 
+El detectiu Conan 406 (2019-08-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060652
+Titol: El codi dels estels i del tabac (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/3/1600770385736.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/6/3/1600770385736.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/0/1600770396006.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/9/1600771350197.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/0/1600771350903.xml
+
+
+El detectiu Conan 407 (2019-08-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060654
+Titol: Temps límit: les 15 hores
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/9/1600770450698.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/8/9/1600770450698.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/7/1600770475473.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/5/1600771347850.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/2/1600771348526.xml
+
+
+El detectiu Conan 408 (2019-08-29)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060645
+Titol: El viatge per resoldre el misteri de Momotaro (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/4/1600770314641.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/4/1600770314641.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/7/1600770340874.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/4/1600771345340.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/0/1600771346209.xml
+
+
+El detectiu Conan 409 (2019-08-29)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060640
+Titol: El viatge per resoldre el misteri de Momotaro (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/7/1600769107078.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/8/7/1600769107078.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/0/1600769133801.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/6/1600770126768.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/6/1600770127460.xml
+
+
+El detectiu Conan 410 (2019-08-30)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060638
+Titol: El cas del dimoni del quimono a la foscor de les termes nevades (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/4/1600767780048.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/8/4/1600767780048.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/6/1600767804463.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/6/1600770124460.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/3/1600770125234.xml
+
+
