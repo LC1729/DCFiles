@@ -2380,6 +2380,46 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/2/8/1585909447982.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/3/3/1585909449133.xml
 
 
+El detectiu Conan 402 (2019-08-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060641
+Titol: La ruta del silenci (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/1/1600769820619.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/1/1600769820619.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/4/1600769846340.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/0/1600771357009.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/3/1600771357830.xml
+
+
+El detectiu Conan 403 (2019-08-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060643
+Titol: La ruta del silenci (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/5/1600770273154.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/5/1600770273154.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/8/1600770297388.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/4/1600771354843.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/4/1600771355549.xml
+
+
+El detectiu Conan 404 (2019-08-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060655
+Titol: El parany de l'aranya verinosa
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/7/1600770572677.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/7/7/1600770572677.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/8/1600770597988.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/8/1600778488189.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/0/1600778488905.xml
+
+
+El detectiu Conan 405 (2019-08-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060653
+Titol: El codi dels estels i del tabac (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/2/1600770408926.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/6/2/1600770408926.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/6/1600770429061.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/4/1600771352444.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/0/1600771353204.xml
+
+
 El detectiu Conan 406 (2019-08-28)
 Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060652
 Titol: El codi dels estels i del tabac (2a part)
@@ -2428,5 +2468,25 @@ MQ(alt.): https://mp4-down-medium-es.ccma.cat/8/4/1600767780048.mp4
 HQ: https://mp4-down-high-es.ccma.cat/3/6/1600767804463.mp4
 Subs1: https://statics.ccma.cat/multimedia/vtt/0/6/1600770124460.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/4/3/1600770125234.xml
+
+
+El detectiu Conan 411 (2019-08-30)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060796
+Titol: El cas del dimoni del quimono a la foscor de les termes nevades (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/2/1600813173023.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/3/2/1600813173023.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/3/1600813196336.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/7/1600814503674.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/3/1600814505333.xml
+
+
+El detectiu Conan 412 (2019-09-02)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060797
+Titol: Qui fa les deduccions? (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/6/1600813321962.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/2/6/1600813321962.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/3/1600813344734.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/1/1600814499211.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/3/1600814500438.xml
 
 
