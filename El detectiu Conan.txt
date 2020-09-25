@@ -2510,3 +2510,23 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/6/6/1600828893766.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/8/9/1600828894498.xml
 
 
+El detectiu Conan 415 (2019-09-03)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060806
+Titol: El miracle de Koshien: no et rendeixis mai al diable invisible (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/1/1600822657619.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/1/1600822657619.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/3/1600822683035.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/6/1600828889569.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/5/1600828890251.xml
+
+
+El detectiu Conan 416 (2019-09-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060811
+Titol: El miracle de Koshien: no et rendeixis mai al diable invisible (3a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/6/1600825390662.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/2/6/1600825390662.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/7/1600825414570.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/0/1600828887309.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/2/1600828888125.xml
+
+
