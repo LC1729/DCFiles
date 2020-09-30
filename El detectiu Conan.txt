@@ -2530,3 +2530,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/9/0/1600828887309.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/5/2/1600828888125.xml
 
 
+El detectiu Conan 417 (2020-09-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060812
+Titol: El miracle de Koshien: no et rendeixis mai al diable invisible (4a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/1/1600825431715.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/5/1/1600825431715.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/8/1600825455788.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/8/1600828885188.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/7/1600828885872.xml
+
+
+El detectiu Conan 418 (2019-09-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060805
+Titol: Objectiu, Kogoro Mouri!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/3/1600822566238.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/8/3/1600822566238.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/9/1600822589290.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/3/1600828882938.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/6/1600828883667.xml
+
+
+El detectiu Conan 419 (2020-09-29)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060815
+Titol: La cacofonia de l'Stradivarius: preludi
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/3/1600828513638.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/8/3/1600828513638.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/3/1600828538534.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/8/1600836065780.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/9/1600836066592.xml
+
+
+El detectiu Conan 420 (2019-09-06)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060814
+Titol: La cacofonia de l'Stradivarius: interludi
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/0/1600827702501.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/0/1600827702501.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/8/1600827725788.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/8/1600828880782.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/9/1600828881491.xml
+
+
