@@ -2570,3 +2570,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/2/8/1600828880782.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/1/9/1600828881491.xml
 
 
+El detectiu Conan 421 (2020-09-30)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060804
+Titol: La cacofonia de l'Stradivarius: coda
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/7/1600821725870.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/7/1600821725870.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/3/1600821748734.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/6/1600828878661.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/9/1600828879391.xml
+
+
+El detectiu Conan 422 (2019-09-09)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060816
+Titol: Un Kogoro borratxo de sake genuí (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/9/1600828840890.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/9/1600828840890.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/2/1600828866027.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/0/1600836063604.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/9/1600836064292.xml
+
+
+El detectiu Conan 423 (2019-09-09)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060819
+Titol: Un Kogoro borratxo de sake genuí (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/9/1600832292190.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/9/1600832292190.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/5/1600832315155.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/2/1600836059126.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/4/1600836059840.xml
+
+
+El detectiu Conan 424 (2019-09-10)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6060820
+Titol: La història d'amor dels investigadors de la policia metropolitana 6 (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/6/1600833524063.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/3/6/1600833524063.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/3/1600833548835.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/0/1600836061307.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/8/1600836062085.xml
+
+
