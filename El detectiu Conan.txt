@@ -2610,3 +2610,23 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/7/0/1600836061307.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/5/8/1600836062085.xml
 
 
+El detectiu Conan 425 (2019-09-10)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6061028
+Titol: La història d'amor dels investigadors de la policia metropolitana 6 (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/4/1600920119443.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/3/4/1600920119443.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/6/1600920150165.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/5/1600922478452.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/1/1600922479411.xml
+
+
+El detectiu Conan 426 (2019-09-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6061026
+Titol: La misteriosa discrepància dels 20 centímetres
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/0/1600920003604.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/0/1600920003604.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/2/1600920031525.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/6/1600922476160.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/9/1600922476891.xml
+
+
