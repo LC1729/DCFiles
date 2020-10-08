@@ -2670,3 +2670,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/2/9/1601267964492.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/9/4/1601267965249.xml
 
 
+El detectiu Conan 431 (2020-10-07)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6061693
+Titol: Una de picant, una d'amargant i una de dolça
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/1/1601340584515.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/5/1/1601340584515.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/6/1601340607163.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/3/1601347217638.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/7/1601347218272.xml
+
+
+El detectiu Conan 432 (2020-10-07)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6061696
+Titol: La petició d'una família estranya (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/4/1601344305545.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/5/4/1601344305545.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/2/1601344333121.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/5/1601347215553.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/2/1601347216222.xml
+
+
+El detectiu Conan 433 (2019-02-13)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6061916
+Titol: La petició d'una família estranya (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/5/1601431493454.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/5/1601431493454.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/3/1601431517338.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/4/1601433643649.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/9/1601433644498.xml
+
+
+El detectiu Conan 434 (2019-02-13)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6061914
+Titol: Les sospites de la Ran
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/4/1601431127945.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/5/4/1601431127945.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/8/1601431150887.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/0/1601433646300.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/8/1601433647086.xml
+
+
