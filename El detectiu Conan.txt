@@ -2710,3 +2710,23 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/0/0/1601433646300.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/6/8/1601433647086.xml
 
 
+El detectiu Conan 435 (2020-10-09)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6062114
+Titol: El cas del veritable atracament a la joieria (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/2/1601512155829.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/2/1601512155829.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/9/1601512180590.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/3/1601519921631.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/4/1601519922343.xml
+
+
+El detectiu Conan 436 (2019-02-14)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6063918
+Titol: El cas del veritable atracament a la joieria (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/2/1602576904327.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/7/2/1602576904327.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/2/1602576930824.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/1/1602578568414.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/5/1602578569254.xml
+
+
