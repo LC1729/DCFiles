@@ -2730,3 +2730,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/4/1/1602578568414.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/4/5/1602578569254.xml
 
 
+El detectiu Conan 437 (2020-10-13)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6062617
+Titol: La mansió dels àngels misteriosos (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/2/1601866048727.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/7/2/1601866048727.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/8/1601866076185.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/8/1601872784089.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/8/1601872784881.xml
+
+
+El detectiu Conan 438 (2019-02-15)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6062616
+Titol: La mansió dels àngels misteriosos (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/1/1601864285411.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/1/1601864285411.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/1/1601864314713.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/9/1601865564294.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/0/1601865564905.xml
+
+
+El detectiu Conan 439 (2020-10-14)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6062867
+Titol: L'home que va demanar l'ambulància
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/7/1601962002476.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/6/7/1601962002476.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/6/1601962026461.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/4/1601966525345.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/7/1601966525972.xml
+
+
+El detectiu Conan 440 (2019-02-18)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6062866
+Titol: La màgia de les deduccions d'en Conan i en Heiji: els trucs
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/8/1601961821984.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/8/1601961821984.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/3/1601961845438.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/5/1601966523255.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/9/1601966523999.xml
+
+
