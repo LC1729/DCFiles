@@ -2770,3 +2770,23 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/5/5/1601966523255.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/9/9/1601966523999.xml
 
 
+El detectiu Conan 441 (2020-10-15)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6063032
+Titol: La màgia de les deduccions d'en Conan i en Heiji: la casa
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/1/1602034503314.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/1/1602034503314.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/4/1602034526542.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/7/1602038471974.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/0/1602038472608.xml
+
+
+El detectiu Conan 442 (2019-02-19)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6063035
+Titol: La màgia de les deduccions d'en Conan i en Heiji: la solució
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/7/1602035762270.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/7/1602035762270.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/0/1602035786307.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/0/1602038474107.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/1/1602038474815.xml
+
+
