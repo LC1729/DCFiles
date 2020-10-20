@@ -2790,3 +2790,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/7/0/1602038474107.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/5/1/1602038474815.xml
 
 
+El detectiu Conan 443 (2020-10-16)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6063205
+Titol: Un segrest i una funció de teatre al mateix temps (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/9/1602117951090.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/9/1602117951090.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/3/1602117976638.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/2/1602124847822.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/4/1602124848745.xml
+
+
+El detectiu Conan 444 (2019-02-20)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6063211
+Titol: Un segrest i una funció de teatre al mateix temps (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/6/1602122337160.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/6/1602122337160.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/8/1602122360082.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/0/1602124850107.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/6/1602124850767.xml
+
+
+El detectiu Conan 445 (2020-10-19)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6063668
+Titol: L'enigma sorprenent de l'arcada del temple (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/8/1602378702481.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/8/1602378702481.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/3/1602378725630.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/8/1602384075888.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/8/1602384076586.xml
+
+
+El detectiu Conan 446 (2019-02-21)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6063669
+Titol: L'enigma sorprenent de l'arcada del temple (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/6/1602378822166.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/6/6/1602378822166.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/2/1602378848320.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/8/1602384073788.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/0/1602384074505.xml
+
+
