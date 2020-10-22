@@ -2830,3 +2830,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/8/8/1602384073788.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/5/0/1602384074505.xml
 
 
+El detectiu Conan 447 (2020-10-20)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6063752
+Titol: El misteri d'un assassinat mig perfecte
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/5/1602468576154.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/5/1602468576154.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/6/1602468600362.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/0/1602470373506.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/0/1602470374207.xml
+
+
+El detectiu Conan 448 (2019-02-22)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6063753
+Titol: La lliga de Detectius Júnior darrere l'ocell blau
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/4/1602468632846.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/6/4/1602468632846.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/6/1602468657362.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/7/1602470375570.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/2/1602470376325.xml
+
+
+El detectiu Conan 449 (2020-10-21)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6063901
+Titol: L'esperit que apareix el dia de la mort de Buda: el cas
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/6/1602552050262.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/2/6/1602552050262.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/7/1602552074579.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/3/1602556796634.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/8/1602556797380.xml
+
+
+El detectiu Conan 450 (2019-02-25)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6063902
+Titol: L'esperit que apareix el dia de la mort de Buda: les sospites
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/2/1602552204329.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/2/1602552204329.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/8/1602552229783.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/8/1602556798685.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/7/1602556799374.xml
+
+
