@@ -2910,3 +2910,23 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/5/2/1602736874325.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/0/3/1602736875030.xml
 
 
+El detectiu Conan 455 (2020-10-26)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6064681
+Titol: Un primer amor del color dels gingkos (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/7/1602979144774.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/7/1602979144774.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/6/1602979167864.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/5/1602981701750.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/2/1602981702429.xml
+
+
+El detectiu Conan 456 (2019-02-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6064689
+Titol: Un primer amor del color dels gingkos (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/3/1602983915531.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/3/1602983915531.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/5/1602983939055.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/8/1602988782088.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/7/1602988782772.xml
+
+
