@@ -2870,3 +2870,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/5/8/1602556798685.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/4/7/1602556799374.xml
 
 
+El detectiu Conan 451 (2020-10-22)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6064100
+Titol: L'esperit que apareix el dia de la mort de Buda: la solució
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/6/1602641433966.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/6/6/1602641433966.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/9/1602641456995.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/7/1602643308072.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/5/1602643308751.xml
+
+
+El detectiu Conan 452 (2019-02-26)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=4094650
+Titol: Una casa molt bufona a la ciutat de Beika
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/8/1602641159080.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/8/1602641159080.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/5/1602641183254.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/8/1544768734889.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/3/1439188662432.xml
+
+
+El detectiu Conan 453 (2020-10-23)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6064275
+Titol: L'espasa de Yamata-No-Orochi (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/3/1602734578737.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/7/3/1602734578737.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/9/1602734602998.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/2/1602736872127.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/5/1602736872850.xml
+
+
+El detectiu Conan 454 (2019-02-27)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=6064273
+Titol: L'espasa de Yamata-No-Orochi (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/1/1602731516916.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/6/1/1602731516916.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/8/1602731541888.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/2/1602736874325.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/3/1602736875030.xml
+
+
