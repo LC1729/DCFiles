@@ -2930,3 +2930,23 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/8/8/1602988782088.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/2/7/1602988782772.xml
 
 
+El detectiu Conan 457 (2019-03-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3680070
+Titol: La lliga de detectius júnior i els quatre germans eruga
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/6/1603075501268.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/8/6/1603075501268.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/2/1603075525525.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/3/1544758607537.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/1/1438736858818.xml
+
+
+El detectiu Conan 458 (2019-03-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3680090
+Titol: El fotomissatge del pallasso
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/1/1603074625218.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/8/1/1603074625218.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/8/1603074648285.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/7/1544758606372.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/7/1439187457671.xml
+
+
