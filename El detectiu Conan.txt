@@ -2970,3 +2970,23 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/5/7/1544758551975.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/4/1/1438736656114.xml
 
 
+El detectiu Conan 461 (2019-03-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3685931
+Titol: Impacte negre! A l'abast dels braços de l'organització (3a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/9/1603248743296.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/6/9/1603248743296.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/4/1603248765444.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/0/1544758526103.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/5/1438736618559.xml
+
+
+El detectiu Conan 462 (2019-03-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3685972
+Titol: Impacte negre! A l'abast dels braços de l'organització (4a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/7/1603246973973.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/3/7/1603246973973.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/1/1603246999211.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/4/1544758524849.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/5/1438736614554.xml
+
+
