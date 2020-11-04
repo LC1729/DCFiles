@@ -3010,3 +3010,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/4/6/1544758498464.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/1/5/1438736578851.xml
 
 
+El detectiu Conan 465 (2020-11-02)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3688230
+Titol: El camí supersecret per anar a l'escola (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/2/1603590244827.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/7/2/1603590244827.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/2/1603590269322.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/6/1544758473169.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/9/1438736553996.xml
+
+
+El detectiu Conan 466 (2019-03-07)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3688250
+Titol: El camí supersecret per anar a l'escola (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/7/1603589162879.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/7/1603589162879.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/9/1603589186995.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/6/1/1544758472016.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/3/1438736549734.xml
+
+
+El detectiu Conan 467 (2020-11-03)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3690670
+Titol: Un punt sense retorn (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/9/1603680743291.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/9/1603680743291.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/0/1603680766902.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/2/1544758447022.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/1/1438736525912.xml
+
+
+El detectiu Conan 468 (2019-03-08)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3690690
+Titol: Un punt sense retorn (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/2/1603680833424.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/2/1603680833424.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/7/1603680858878.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/3/1544758444732.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/7/1438736518473.xml
+
+
