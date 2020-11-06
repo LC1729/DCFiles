@@ -3050,3 +3050,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/2/3/1544758444732.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/3/7/1438736518473.xml
 
 
+El detectiu Conan 469 (2020-11-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3692970
+Titol: La història d'amor dels investigadors de la Central Metropolitana 7 (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/2/1603765555120.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/2/1603765555120.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/8/1603765580388.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/5/1544758384154.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/7/1438736366072.xml
+
+
+El detectiu Conan 470 (2019-03-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3693030
+Titol: La història d'amor dels investigadors de la Central Metropolitana 7 (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/3/1603764022430.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/3/1603764022430.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/1/1603764046312.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/8/1544758382780.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/5/1438736359259.xml
+
+
+El detectiu Conan 471 (2020-11-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3696090
+Titol: Conan, sí que n'ets d'estrany!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/0/1603849966001.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/0/1603849966001.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/8/1603849988686.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/1/1544758346618.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/5/1438736298652.xml
+
+
+El detectiu Conan 472 (2019-03-12)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3696070
+Titol: La proesa de la Kuru!
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/3/1603853934235.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/5/3/1603853934235.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/8/1603853959588.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/4/1544758345240.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/6/1438736294366.xml
+
+
