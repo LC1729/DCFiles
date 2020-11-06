@@ -3090,3 +3090,23 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/0/4/1544758345240.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/6/6/1438736294366.xml
 
 
+El detectiu Conan 473 (2020-11-06)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3698930
+Titol: La lliga de Detectius Júnior i l'entrevista! (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/6/1603939065769.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/6/1603939065769.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/3/1603939090632.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/2/1544758324524.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/5/1438735441059.xml
+
+
+El detectiu Conan 474 (2019-03-13)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3698970
+Titol: La lliga de Detectius Júnior i l'entrevista! (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/0/1603939302803.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/3/0/1603939302803.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/5/1603939327253.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/7/1544758323277.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/5/1438735436454.xml
+
+
