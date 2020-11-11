@@ -3130,3 +3130,23 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/7/3/1604051129937.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/6/0/1438972084006.xml
 
 
+El detectiu Conan 477 (2019-03-15)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3702390
+Titol: Que tothom desaparegui
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/3/9/1604288478193.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/3/9/1604288478193.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/9/1604288501799.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/9/1544758262190.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/3/1438735359739.xml
+
+
+El detectiu Conan 478 (2019-03-15)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3702410
+Titol: Una escena extremadament perillosa
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/0/1604288027400.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/0/1604288027400.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/0/1604288051409.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/9/1544758259795.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/7/1438735352172.xml
+
+
