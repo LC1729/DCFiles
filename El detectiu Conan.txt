@@ -3110,3 +3110,23 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/7/7/1544758323277.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/4/5/1438735436454.xml
 
 
+El detectiu Conan 475 (2020-11-09)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3699830
+Titol: La promesa de l'Aya Ueto i d'en Shinichi, quatre anys enrere
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/0/1604194885202.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/2/0/1604194885202.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/6/1604194909460.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/8/1604051129087.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/5/1438934781252.xml
+
+
+El detectiu Conan 476 (2019-03-14)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3699850
+Titol: Seguint la pista del missatge del  peix
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/1/1604194822512.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/2/1/1604194822512.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/3/1604194845539.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/3/1604051129937.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/0/1438972084006.xml
+
+
