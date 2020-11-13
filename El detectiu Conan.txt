@@ -3150,3 +3150,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/5/9/1544758259795.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/2/7/1438735352172.xml
 
 
+El detectiu Conan 479 (2020-11-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3704930
+Titol: L'última mossegada
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/6/1604377063269.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/6/1604377063269.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/2/1604377085629.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/5/1544758194055.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/3/1438735191433.xml
+
+
+El detectiu Conan 480 (2020-11-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3704970
+Titol: L'home amb una fractura com a obstacle
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/0/1604376038909.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/0/1604376038909.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/4/1604376061844.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/0/1544758192905.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/8/1438735180880.xml
+
+
+El detectiu Conan 481 (2020-11-12)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3709312
+Titol: L'home que sospirava buscant cloïsses  (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/9/1604455446299.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/9/1604455446299.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/2/1604455470324.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/2/1544758161925.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/7/1487357331670.xml
+
+
+El detectiu Conan 482 (2020-11-12)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3709310
+Titol: L'home que sospirava buscant cloïsses  (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/1/1604457596814.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/1/1604457596814.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/3/1604457623131.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/9/1544758160590.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/4/1487357326948.xml
+
+
