@@ -3210,3 +3210,23 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/4/8/1544758131784.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/4/0/1438735059204.xml
 
 
+El detectiu Conan 486 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3714170
+Titol: El cas de l'agulla tonyinera de Meguro
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/2/1604802526021.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/2/1604802526021.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/0/1604802538202.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/5/1544758101553.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/4/1487357317648.xml
+
+
+El detectiu Conan 485 (2020-11-16)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3714110
+Titol: La finestra occidental segellada  (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/5/3/1604802574235.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/5/3/1604802574235.mp4
+HQ: https://mp4-down-high-es.ccma.cat/1/5/1604802584751.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/7/1544758102779.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/6/1438735021961.xml
+
+
