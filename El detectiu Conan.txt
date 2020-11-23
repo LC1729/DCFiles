@@ -3270,3 +3270,13 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/0/1/1544758012210.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/1/8/1487324744581.xml
 
 
+El detectiu Conan 491 (2020-11-19)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3732350
+Titol: El fantasma de Konpira (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/5/1605062535851.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/5/1605062535851.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/3/1605062560638.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/3/1544757981937.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/2/1/1487267799312.xml
+
+
