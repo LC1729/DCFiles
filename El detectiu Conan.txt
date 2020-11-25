@@ -3310,3 +3310,43 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/1/2/1544757949021.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/4/3/1438734652434.xml
 
 
+El detectiu Conan 496 (2019-03-28)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3735530
+Titol: La meva novel.la preferida
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/2/1605405412022.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/2/2/1605405412022.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/7/1605405435376.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/7/1544757921475.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/1/1438734613919.xml
+
+
+El detectiu Conan 495 (2020-11-23)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3735471
+Titol: Un desenllaç capgirat (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/1/1605407334319.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/1/1605407334319.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/4/1605407358240.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/8/1544757922685.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/3/1438734619938.xml
+
+
+El detectiu Conan 497 (2020-11-24)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3742370
+Titol: El mocador vermell de la Sonoko (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/3/1605504018031.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/3/1605504018031.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/4/1605504041243.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/7/1544757891874.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/4/1438734568049.xml
+
+
+El detectiu Conan 498 (2019-03-29)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3742390
+Titol: El mocador vermell de la Sonoko (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/9/1605500025994.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/9/1605500025994.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/6/1605500051060.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/0/1544757889702.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/3/1438734560937.xml
+
+
