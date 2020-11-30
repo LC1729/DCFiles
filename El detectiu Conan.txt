@@ -3350,3 +3350,53 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/2/0/1544757889702.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/7/3/1438734560937.xml
 
 
+El detectiu Conan 500 (2019-04-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3745710
+Titol: La gran operació de 1-B
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/1/1605585748111.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/1/1605585748111.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/9/1605585805794.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/9/1544757824490.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/9/1438733653691.xml
+
+
+El detectiu Conan 502 (2019-04-02)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3747870
+Titol: L'ombra de l'organització dels homes de negre: el petit testimoni
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/2/1605663331528.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/8/2/1605663331528.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/8/1605663355584.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/5/1544757789259.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/4/1438733576341.xml
+
+
+El detectiu Conan 503 (2020-11-27)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3749330
+Titol: L'ombra de l'organització dels homes de negre: una lluminària extravagant
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/2/1605755826629.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/2/1605755826629.mp4
+HQ: https://mp4-down-high-es.ccma.cat/0/8/1605755874180.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/3/2/1544757759323.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/9/1438733524499.xml
+
+
+El detectiu Conan 504 (2019-04-03)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3749390
+Titol: L'ombra de l'organització dels homes de negre: la recompensa misteriosa
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/3/1605755844837.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/7/3/1605755844837.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/6/1605755899567.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/8/1544757758187.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/8/0/1438733519108.xml
+
+
+El detectiu Conan 501 (2019-04-02)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3747850
+Titol: La pàgina que havia desaparegut
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/4/1605664595240.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/4/1605664595240.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/2/1605664620226.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/0/1544757790602.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/2/1438733580825.xml
+
+
