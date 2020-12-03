@@ -3350,6 +3350,16 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/2/0/1544757889702.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/7/3/1438734560937.xml
 
 
+El detectiu Conan 499 (2019-04-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3745670
+Titol: L'abominable home de les normes
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/9/1605589816094.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/9/1605589816094.mp4
+HQ: https://mp4-down-high-es.ccma.cat/3/0/1605589838803.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/5/1544757825658.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/4/1438733658745.xml
+
+
 El detectiu Conan 500 (2019-04-01)
 Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3745710
 Titol: La gran operació de 1-B
@@ -3398,5 +3408,55 @@ MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/4/1605664595240.mp4
 HQ: https://mp4-down-high-es.ccma.cat/6/2/1605664620226.mp4
 Subs1: https://statics.ccma.cat/multimedia/vtt/2/0/1544757790602.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/5/2/1438733580825.xml
+
+
+El detectiu Conan 506 (2020-11-30)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3751690
+Titol: El ninot de neu que no s'esbocinava (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/1/1606014923418.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/8/1/1606014923418.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/9/1606014946295.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/6/1544757729464.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/9/1438733462999.xml
+
+
+El detectiu Conan 507 (2020-12-01)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3757151
+Titol: El ninot de neu que no s'esbocinava (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/0/1606105544509.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/0/1606105544509.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/7/1606105568777.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/1/1544757704917.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/2/1438733422327.xml
+
+
+El detectiu Conan 508 (2019-04-05)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3757250
+Titol: El misteri de l'estany
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/0/1606104284600.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/0/1606104284600.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/7/1606104309972.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/5/1544757703552.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/6/4/1438733417246.xml
+
+
+El detectiu Conan 509 (2020-12-02)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3759570
+Titol: En Kaiko Kid i els quatre grans quadres (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/5/1606188817054.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/5/1606188817054.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/0/1606188845807.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/0/5/1544779199450.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/4/1438776526440.xml
+
+
+El detectiu Conan 510 (2020-12-02)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3759590
+Titol: En Kaiko Kid i els quatre grans quadres (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/4/3/1606192542234.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/4/3/1606192542234.mp4
+HQ: https://mp4-down-high-es.ccma.cat/2/1/1606192566312.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/9/1544779197194.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/7/1438776516977.xml
 
 
