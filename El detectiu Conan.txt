@@ -3460,3 +3460,53 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/4/9/1544779197194.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/7/7/1438776516977.xml
 
 
+El detectiu Conan 512 (2020-12-03)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3761610
+Titol: Les aventures del jove Shinichi Kudo (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/0/1606279848802.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/2/0/1606279848802.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/1/1606279874119.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/0/1544761086007.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/6/1438738991665.xml
+
+
+El detectiu Conan 513 (2020-12-04)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3761990
+Titol: Les aventures del jove Shinichi Kudo (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/3/1606364059232.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/2/3/1606364059232.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/1/1606364102919.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/3/1544761058232.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/9/3/1438738950339.xml
+
+
+El detectiu Conan 514 (2019-04-10)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3762010
+Titol: L'amant de l'advocada: Eri Kisaki
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/8/9/1606362407198.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/8/9/1606362407198.mp4
+HQ: https://mp4-down-high-es.ccma.cat/4/7/1606362452374.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/1/5/1544761056951.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/7/9/1438738946397.xml
+
+
+El detectiu Conan 516 (2019-04-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3764870
+Titol: El xut mortal d'en Genta (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/6/1/1606792240016.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/6/1/1606792240016.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/4/1606792263645.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/2/1544761028128.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/1/4/1438738912341.xml
+
+
+El detectiu Conan 515 (2019-04-11)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3764850
+Titol: L'home més desgraciat del món
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/2/9/1606793226092.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/2/9/1606793226092.mp4
+HQ: https://mp4-down-high-es.ccma.cat/6/2/1606793271826.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/2/4/1544761029142.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/5/1438738916150.xml
+
+
