@@ -3510,3 +3510,53 @@ Subs1: https://statics.ccma.cat/multimedia/vtt/2/4/1544761029142.vtt
 Subs2: http://www.tv3.cat/multimedia/xml/0/5/1438738916150.xml
 
 
+El detectiu Conan 526 (2019-04-18)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3778970
+Titol: El policia desaparegut
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/6/1607392072567.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/7/6/1607392072567.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/9/1607392128595.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/7/5/1544777259357.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/0/7/1438774989570.xml
+
+
+El detectiu Conan 527 (2020-12-17)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3779350
+Titol: L'amagatall de la foto negra (1a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/7/1/1607479666717.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/7/1/1607479666717.mp4
+HQ: https://mp4-down-high-es.ccma.cat/7/4/1607479711547.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/9/6/1544777239569.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/6/1438774936263.xml
+
+
+El detectiu Conan 528 (2019-04-19)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3779352
+Titol: L'amagatall de la foto negra (2a part)
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/0/1/1607479334310.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/0/1/1607479334310.mp4
+HQ: https://mp4-down-high-es.ccma.cat/9/1/1607479379819.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/5/1/1544777238415.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/3/1/1438774931713.xml
+
+
+El detectiu Conan 559 (*null)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3824110
+Titol: L'horòscop trencat
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/9/6/1607560594869.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/9/6/1607560594869.mp4
+HQ: https://mp4-down-high-es.ccma.cat/5/2/1607560637225.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/8/7/1544758647278.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/5/8/1438736939885.xml
+
+
+El detectiu Conan 529 (2020-12-18)
+Info: http://www.tv3.cat/pvideo/FLV_bbd_dadesItem_MP4.jsp?idint=3795390
+Titol: La desaparició del gat que saluda
+MQ: http://mp4-medium-dwn-es.media.tv3.cat/g/tvcatalunya/1/2/1607560668721.mp4
+MQ(alt.): https://mp4-down-medium-es.ccma.cat/1/2/1607560668721.mp4
+HQ: https://mp4-down-high-es.ccma.cat/8/0/1607560713608.mp4
+Subs1: https://statics.ccma.cat/multimedia/vtt/4/1/1544759138514.vtt
+Subs2: http://www.tv3.cat/multimedia/xml/4/2/1438738635324.xml
+
+
